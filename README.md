@@ -12,7 +12,11 @@ Mario \& Geno: Physical/Magic - Peach: HP/Magic - Bowser: Physical - Mallow: HP/
 
 
 
+(N64 Save Converter)
 
+pj64tosrm Author: Anthony Moskunas IV (Anthony_IV)
+
+To use pj64tosrm, just drag and drop the save you want to convert and make sure the naming convention matches the game so it would be able to load in properly
 
 
 
@@ -38,16 +42,19 @@ Folder: home > roms > gbc
 
 Folder: home > roms > n64
 
-* GoldenEye 007 // 
-* LEGO Racers // 
-* Mari Kart 64 // 
-* Paper Mario // 
-* Ready 2 Rumble // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
+* Donkey Kong 64 // 101% Unlocked
+* GoldenEye 007 // Game Completed
+* LEGO Racers // Everything is unlocked - Custom Racer: Captain Red Beard
+* Mario Kart 64 // Races Completed and Alternate Screen
+* Mario Party 1-3 // Boards Unlocked
+* Mario Tennis // Everything Unlocked
+* Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
+* Paper Mario // Goomba Village - No Stars - Time: 12 Minutes
+* Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Super Mario 64 // 120 Stars
-* Super Smash Bros. // 
-* Legend of Zelda: Majora's Mask // 
-* Legend of Zelda: Ocarina of Time // 
-* Nintendo All-Star! Dairantou Smash Brothers // 
+* Super Smash Bros. // Everything Unlocked
+* The Legend of Zelda: Majora's Mask // Game Completed
+* The Legend of Zelda: Ocarina of Time // Game Completed
 
 
 
@@ -117,16 +124,19 @@ Folder: home > roms > snes
 
 Folder: opt > n64
 
-* Donkey Kong 64 // 
-* Legend of Zelda: Majora's Mask // 
-* Legend of Zelda: Ocarina of Time // 
-* LEGO Racers // Everything is unlocked and the custom racer is Captain Redbeard
-* Mario 64 // Races Completed and Alternate Screen
+* Donkey Kong 64 // 101% Unlocked
+* GoldenEye 007 // Game Completed
+* LEGO Racers // Everything is unlocked - Custom Racer: Captain Red Beard
+* Mario Kart 64 // Races Completed and Alternate Screen
 * Mario Party 1-3 // Boards Unlocked
-* Mario Tennis // 
-* Nintendo All-Star! Dairantou Smash Brothers // Characters Unlocked
+* Mario Tennis // Everything Unlocked
+* Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
+* Paper Mario // Goomba Village - No Stars - Time: 12 Minutes
+* Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Super Mario 64 // 120 Stars
-* Super Smash Bros. // Characters Unlocked
+* Super Smash Bros. // Everything Unlocked
+* The Legend of Zelda: Majora's Mask // Game Completed
+* The Legend of Zelda: Ocarina of Time // Game Completed
 
 
 
@@ -138,6 +148,3 @@ Folder: opt > psp
 
 * UCUS98601000 // Twisted Metal: Head-On // Everything Unlocked
 * ULUS10098GFUSER0\[0/1] // The Godfather: Mob Wars // Character: Aldo - Before and After Final Mission Completion
-
-
-
