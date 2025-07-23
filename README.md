@@ -111,23 +111,22 @@ Folder: home > roms > psx
 Folder: home > roms > snes
 
 * Earthbound // At the second visit to Onett for Meteorite Piece
+* Final Fantasy II // Team: Cecil, Kain, Cid, Rosa, Yang - Location: Outside Baron - Levels: 21-23 - Time: 5:00 - GP: 48417
 * Final Fantasy III // Team: Edgar, Sabin, Terra, Cyan - Location: Before World Split - Levels: 21-25 - Time: 11:23 - GP: 2095 - Steps: 24433
+* Hyper Street Kart // 150 & Special Cup (100CC & 150CC) Unlocked
 * Kirby Super Star // 100% - Everything Unlocked
+* Super Mario All-Stars // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
+* Super Mario All-Stars + Super Mario World // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) // 95 Exits Cleared - Location: Valley Fortress before Back Door
+* Super Mario Collection (Japan) // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
 * Super Mario Kart // 150 & Special Cup (100CC & 150CC) Unlocked
+* Super Mario Kart - Horizons // 150 & Special Cup (100CC & 150CC) Unlocked
 * Super Mario RPG - Legend of the Seven Stars // Location: Factory - Stars: 6 - Levels: 30
 * Super Mario World // 95 Exits Cleared - Location: Valley Fortress before Back Door
-* Super Punch-Out!! // Game Completed - 16-0 - Name: Lil' Mac
-* The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Rupees: 999 - Hearts: 13
 * Super Mario World - Super Mario Bros. 4 (Japan) // 95 Exits Cleared - Location: Valley Fortress before Back Door
-* Final Fantasy II // Team: Cecil, Kain, Cid, Rosa, Yang - Location: Outside Baron - Levels: 21-23 - Time: 5:00 - GP: 48417
-* Super Mario All-Stars + Super Mario World // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) // 95 Exits Cleared - Location: Valley Fortress before Back Door
-* Super Mario All-Stars // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
-* Super Mario Collection (Japan) // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
-* Super Punch-Out!! (Japan) // Game Completed - 16-0 - Name: Lil' Mac
-* Hyper Street Kart // 150 & Special Cup (100CC & 150CC) Unlocked
-* Super Mario Kart - Horizons // 150 & Special Cup (100CC & 150CC) Unlocked
 * Super Mario World Redrawn // 95 Exits Cleared - Location: Valley Fortress before Back Door
+* Super Punch-Out!! // Game Completed - 16-0 - Name: Lil' Mac
 * Super SpongeBob Kart // 150 & Special Cup (100CC & 150CC) Unlocked
+* The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Rupees: 999 - Hearts: 13
 
 
 
