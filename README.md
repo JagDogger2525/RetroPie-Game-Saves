@@ -87,7 +87,8 @@ Folder: home > roms > n64
 
 * Donkey Kong 64 // 101% Unlocked
 * GoldenEye 007 // Game Completed
-* LEGO Racers // Everything is unlocked - Custom Racer: Captain Red Beard
+* Jet Force Gemini // Slot 1 - Game Completed - Time: 16:08
+* LEGO Racers // Everything Unlocked - Custom Racer: Captain Red Beard
 * Mario Kart 64 // Races Completed and Alternate Screen
 * Mario Party 1-3 // Boards Unlocked
 * Mario Tennis // Everything Unlocked
@@ -119,14 +120,14 @@ Folder: home > roms > nes (Note: Remove the last part to use the save [Ex: Cryst
 
 Folder: home > roms > psx
 
-* Bloody Roar II // Everything Unlocked
 * Bloody Roar // Everything Unlocked
+* Bloody Roar II // Everything Unlocked
 * Breath of Fire III // Slot 1 - Team: Ryu, Momo, Nina - Location: Camp outside Rhapala - Levels: 19-28 - Zenny: 36301 - Time: 19:23
 * Driver - You Are the Wheelman // Everything Unlocked
 * Driver 2 // Everything Unlocked
 * Final Fantasy VII // Slot 1 - This Guy Are Sick | Slot 2 - Cross Dress Scene | Slot 3 - Motorcycle Scene | Slot 4 - 2nd Trip Gold Saucer (Barret Date)  | Slots 5/6 - Use of Aerith  | Slots 7/10 - Start of Disc | Slot 8 - 2nd Trip to Forgotten Capital | Slot 9 - Hojo Scene | Slot 11 - Gold Saucer is Done | Slot 12 - Outside of Crater / Full Team Set  | Slot 13 - Weapons Defeated | Slot 14 - Inside the Crater / Full Team Set | Slot 15 - Debug Room
 * Final Fantasy VIII // Slot 1 - Team: Quistis, Squall - Location: Alcauld Plains - Levels: 7-8 - GF: Quezacotal, Shiva - G: 5000 - Time: 0:19
-* LEGO Racers // Everything is unlocked - Custom Racer: Veronica
+* LEGO Racers // Everything Unlocked - Custom Racer: Veronica
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Thrill Kill // Everything Unlocked
 * Vigilante 8 - 2nd Offense // Everything Unlocked
@@ -169,7 +170,8 @@ Folder: opt > n64
 
 * Donkey Kong 64 // 101% Unlocked
 * GoldenEye 007 // Game Completed
-* LEGO Racers // Everything is unlocked - Custom Racer: Captain Red Beard
+* Jet Force Gemini // Slot 1 - Game Completed - Time: 16:08
+* LEGO Racers // Everything Unlocked - Custom Racer: Captain Red Beard
 * Mario Kart 64 // Races Completed and Alternate Screen
 * Mario Party 1-3 // Boards Unlocked
 * Mario Tennis // Everything Unlocked
