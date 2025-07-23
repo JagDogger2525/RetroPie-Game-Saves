@@ -4,6 +4,8 @@ Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I 
 
 Please see what I have in store for you for your RetroPie game save needs.
 
+As to why the folders are the way they are, it is because home has the .srm files (minus PSP) while opt has the PSP and non-LibRetro N64 Game Saves. The folders in the home > rom section between the Classic Edition, More, English, and Japanese is because to align the saves with the right region, language, and set that the saves would be for. Once downloaded, the saves would be transferred to where the saves would be used with the right naming convention, whether it be an updated version or downgraded version.
+
 
 
 ---
@@ -125,8 +127,9 @@ Folder: home > roms > psx
 * Breath of Fire III // Slot 1 - Team: Ryu, Momo, Nina - Location: Camp outside Rhapala - Levels: 19-28 - Zenny: 36301 - Time: 19:23
 * Driver - You Are the Wheelman // Everything Unlocked
 * Driver 2 // Everything Unlocked
+* Final Fantasy Anthology - Final Fantasy VI // Slot 1 - Team: Terra - Location: Outside Figaro Castle - Levels: 7 - GP: 6102 - Steps: 2658 - Time: 1:18
 * Final Fantasy VII // Slot 1 - This Guy Are Sick | Slot 2 - Cross Dress Scene | Slot 3 - Motorcycle Scene | Slot 4 - 2nd Trip Gold Saucer (Barret Date)  | Slots 5/6 - Use of Aerith  | Slots 7/10 - Start of Disc | Slot 8 - 2nd Trip to Forgotten Capital | Slot 9 - Hojo Scene | Slot 11 - Gold Saucer is Done | Slot 12 - Outside of Crater / Full Team Set  | Slot 13 - Weapons Defeated | Slot 14 - Inside the Crater / Full Team Set | Slot 15 - Debug Room
-* Final Fantasy VIII // Slot 1 - Team: Quistis, Squall - Location: Alcauld Plains - Levels: 7-8 - GF: Quezacotal, Shiva - G: 5000 - Time: 0:19
+* Final Fantasy VIII // Slot 1 - Team: Quistis, Squall - Location: Alcauld Plains - Levels: 7-8 - GF: Quezacotal, Shiva - Gil: 5000 - Time: 0:19
 * LEGO Racers // Everything Unlocked - Custom Racer: Veronica
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Thrill Kill // Everything Unlocked
