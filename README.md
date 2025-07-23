@@ -74,7 +74,7 @@ Folder: home > roms > n64
 
 
 
-Folder: home > roms > nes (Note: Remove the Last part to use the save [Ex: Crystalis.srm])
+Folder: home > roms > nes (Note: Remove the last part to use the save [Ex: Crystalis.srm])
 
 * Crystalis (Level 2) // Name: Simea - Location: Leaf - Level: 2 - Armor: Ceramic Suit / Battle Shield - Money: 21000
 * Crystalis (Level 16) // Name: Simea - Location: Goa - Level: 16 - Armor: Ceramic Suit / Battle Shield - Money: 65000
