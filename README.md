@@ -1,8 +1,10 @@
 # RetroPie Game Saves
 
-Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I have either run through myself or another has run through. There are 8 systems here where the game saves majoritively encompass either RPGs or Multiplayer.
+Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I have either run through myself or another has run through. There are 9 systems here where the game saves majoritively encompass either RPGs or Multiplayer.
 
 Please see what I have in store for you for your RetroPie game save needs.
+
+Honorary Mention: https://savefileconverter.com/#/mister (Gameboy [Color] Save Convertor)
 
 
 
@@ -42,6 +44,18 @@ Folder: home > BIOS > dc
 
 
 
+Folder: home > roms > gb
+
+* Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
+* The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
+* Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
+
+
+
+---
+
+
+
 Folder: home > roms > gba
 
 * Castlevania - Circle of the Moon // Slot 1 - Name: Konami - 78.0% Beaten - Location: Chapel Tower - Level: 34 - Time: 6:12:46
@@ -55,6 +69,7 @@ Folder: home > roms > gba
 Folder: home > roms > gbc
 
 * Pokemon Trading Card Game // Game Beaten - Name: MARK - Album: 183/226 - Time: 21:24
+* The Legend of Zelda - Link's Awakening // Slot 1 - Tunic: Red | Slot 2 - Tunic: Green | Slot 3 - Tunic: Blue | All - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 
 
 
@@ -126,7 +141,7 @@ Folder: home > roms > snes
 * Hyper Street Kart // 150 & Special Cup (100CC & 150CC) Unlocked
 * Kirby Super Star // 100% - Everything Unlocked
 * Super Mario All-Stars // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
-* Super Mario All-Stars + Super Mario World // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) // 95 Exits Cleared - Location: Valley Fortress before Back Door
+* Super Mario All-Stars + Super Mario World // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMW: 95 Exits Cleared - Location: Valley Fortress before Back Door
 * Super Mario Collection (Japan) // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
 * Super Mario Kart // 150 & Special Cup (100CC & 150CC) Unlocked
 * Super Mario Kart - Horizons // 150 & Special Cup (100CC & 150CC) Unlocked
