@@ -1,14 +1,12 @@
 # RetroPie Game Saves
 
-(Note) Please sit tight as I am uploading all the game saves I have and will update with what each one has here when I try them out
+Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I have either run through myself or another has run through. There are 7 systems here where the game saves majoritively encompass either RPGs or Multiplayer.
 
-Here are my own personal retro video game saves. I put a lot of time into many of these just so your RetroPie gaming experience is maximized.
+Please see what I have in store for you for your RetroPie game save needs.
 
-Please do not worry about the RPG's because I make sure that each RPG game save I have, and will, upload, will be the best and making sure that everyone is at level 99.
 
-RPG Notice: Super Mario RPG has each of the characters put the majority of the stats is what they go towards. Mario and Geno have had HP chosen 3 times, but was mainly for the Physical/Magic standings.
 
-Mario \& Geno: Physical/Magic - Peach: HP/Magic - Bowser: Physical - Mallow: HP/Magic/Physical
+---
 
 
 
@@ -18,11 +16,25 @@ pj64tosrm Author: Anthony Moskunas IV (Anthony_IV)
 
 To use pj64tosrm, just drag and drop the save you want to convert and make sure the naming convention matches the game so it would be able to load in properly
 
+Original Post: https://forums.libretro.com/t/n64-save-file-convert/1190/4
+
+
+
+---
+
 
 
 Folder: home > BIOS > dc
 
-* 
+* 18 Wheeler // Everything Unlocked
+* Capcom vs. CNK 2 // Everything Unlocked
+* Marvel vs. Capcom 2 // Everything Unlocked
+* Project Justice // Everything Unlocked
+* Power Stone // Everything Unlocked
+* Power Stone 2 // Everything Unlocked
+* Ready 2 Rumble // Champ Closer - POD 5! Gym with Damien Black at 100% with 2 Fights Left for Credits
+* Spawn: In the Demon's Hand // Everything Unlocked
+* Tech Romancer // Everything Unlocked
 
 
 
@@ -32,7 +44,7 @@ Folder: home > BIOS > dc
 
 Folder: home > roms > gbc
 
-* Pokemon Trading Card Game // 
+* Pokemon Trading Card Game // Game Beaten - Name: MARK - Time: 21:24 - Album: 183/226
 
 
 
@@ -62,9 +74,11 @@ Folder: home > roms > n64
 
 
 
-Folder: home > roms > nes
+Folder: home > roms > nes (Note: Remove the Last part to use the save [Ex: Crystalis.srm])
 
-* Crystalis // 
+* Crystalis (Level 2) // Name: Simea - Location: Leaf - Level: 2 - Armor: Ceramic Suit / Battle Shield - Money: 21000
+* Crystalis (Level 16) // Name: Simea - Location: Goa - Level: 16 - Armor: Ceramic Suit / Battle Shield - Money: 65000
+* Crystalis (End Game) // Name: Simea - Location: Leaf - Level: 16 - Armor: Psycho Armor / Psycho Shield - Money: 65535
 
 
 
@@ -74,19 +88,19 @@ Folder: home > roms > nes
 
 Folder: home > roms > psx
 
+* Bloody Roar II // Everything Unlocked
+* Bloody Roar // Everything Unlocked
+* Breath of Fire III // Slot 1 - Team: Ryu, Momo, Nina - Location: Camp outside Rhapala - Levels: 19-28 - Time: 19:23 - Zenny: 36301
+* Driver - You Are the Wheelman // Everything Unlocked
+* Driver 2 // Everything Unlocked
 * Final Fantasy VII // Slot 1 - This Guy Are Sick | Slot 2 - Cross Dress Scene | Slot 3 - Motorcycle Scene | Slot 4 - 2nd Trip Gold Saucer (Barret Date)  | Slots 5/6 - Use of Aerith  | Slots 7/10 - Start of Disc | Slot 8 - 2nd Trip to Forgotten Capital | Slot 9 - Hojo Scene | Slot 11 - Gold Saucer is Done | Slot 12 - Outside of Crater / Full Team Set  | Slot 13 - Weapons Defeated | Slot 14 - Inside the Crater / Full Team Set | Slot 15 - Debug Room
-* Wild Arms // 
-* Bloody Roar II // 
-* Bloody Roar // 
-* Breath of Fire III // 
-* Driver - You Are the Wheelman // 
-* Driver 2 // 
-* Final Fantasy VIII // 
-* LEGO Racers // 
+* Final Fantasy VIII // Slot 1 - Team: Quistis, Squall - Location: Alcauld Plains - Levels: 7-8 - GF: Quezacotal, Shiva - Time: 0:19 - G: 5000
+* LEGO Racers // Everything is unlocked - Custom Racer: Veronica
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
-* Thrill Kill // 
-* Vigilante 8 - 2nd Offense // 
-* Vigilante 8 // 
+* Thrill Kill // Everything Unlocked
+* Vigilante 8 - 2nd Offense // Everything Unlocked
+* Vigilante 8 // Everything Unlocked
+* Wild Arms // Slot 1: Before Cecilia Gets Kidnapped - Location: Adlehyde - Levels: 5-6 - Time: 1:45 - Gella: 1731 | Slot 2: After Cecilia Gets Kidnapped - Location: Adlehyde - Levels: 5-6 - Time: 1:55 - Gella: 2239
 
 
 
@@ -97,24 +111,23 @@ Folder: home > roms > psx
 Folder: home > roms > snes
 
 * Earthbound // At the second visit to Onett for Meteorite Piece
-* Final Fantasy III
-* Kirby Super Star
-* Super Mario Kart
-* Super Mario RPG - Legend of the Seven Stars
-* Super Mario World
-* Super Punch-Out!!
-* The Legend of Zelda - A Link to the Past
-* Super Mario World - Super Mario Bros. 4 (Japan)
-* Final Fantasy II
-* Super Mario All-Stars + Super Mario World
-* Super Mario All-Stars
-* Super Mario Collection (Japan)
-* Super Punch-Out!! (Japan)
-* Hyper Street Kart (v1.1)
-* Super Mario Kart - Horizons
-* Super Mario World Redrawn
-* Super SpongeBob Kart
-* The Legend of Zelda - A Link to the Past Master Quest (Hack)
+* Final Fantasy III // Team: Edgar, Sabin, Terra, Cyan - Location: Before World Split - Levels: 21-25 - Time: 11:23 - GP: 2095 - Steps: 24433
+* Kirby Super Star // 100% - Everything Unlocked
+* Super Mario Kart // 150 & Special Cup (100CC & 150CC) Unlocked
+* Super Mario RPG - Legend of the Seven Stars // Location: Factory - Stars: 6 - Levels: 30
+* Super Mario World // 95 Exits Cleared - Location: Valley Fortress before Back Door
+* Super Punch-Out!! // Game Completed - 16-0 - Name: Lil' Mac
+* The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Rupees: 999 - Hearts: 13
+* Super Mario World - Super Mario Bros. 4 (Japan) // 95 Exits Cleared - Location: Valley Fortress before Back Door
+* Final Fantasy II // Team: Cecil, Kain, Cid, Rosa, Yang - Location: Outside Baron - Levels: 21-23 - Time: 5:00 - GP: 48417
+* Super Mario All-Stars + Super Mario World // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) // 95 Exits Cleared - Location: Valley Fortress before Back Door
+* Super Mario All-Stars // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
+* Super Mario Collection (Japan) // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
+* Super Punch-Out!! (Japan) // Game Completed - 16-0 - Name: Lil' Mac
+* Hyper Street Kart // 150 & Special Cup (100CC & 150CC) Unlocked
+* Super Mario Kart - Horizons // 150 & Special Cup (100CC & 150CC) Unlocked
+* Super Mario World Redrawn // 95 Exits Cleared - Location: Valley Fortress before Back Door
+* Super SpongeBob Kart // 150 & Special Cup (100CC & 150CC) Unlocked
 
 
 
@@ -131,7 +144,7 @@ Folder: opt > n64
 * Mario Party 1-3 // Boards Unlocked
 * Mario Tennis // Everything Unlocked
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
-* Paper Mario // Goomba Village - No Stars - Time: 12 Minutes
+* Paper Mario // Goomba Village - No Stars - Time: 00:12
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Super Mario 64 // 120 Stars
 * Super Smash Bros. // Everything Unlocked

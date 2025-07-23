@@ -1,0 +1,13 @@
+cheats = 3
+
+cheat0_desc = "Stop Your Opponents"
+cheat0_code = "DF80-44DD"
+cheat0_enable = "true"
+
+cheat1_desc = "Nothing Affects Driving"
+cheat1_code = "759D-C8B4"
+cheat1_enable = "true"
+
+cheat2_desc = "Drive Anywhere"
+cheat2_code = "4DEB-CDA4"
+cheat2_enable = "true"

@@ -1,0 +1,37 @@
+cheats = 9
+
+cheat0_desc = "Ryu Weapon"
+cheat0_code = "30144976+0019"
+cheat0_enable = "true"
+
+cheat1_desc = "Ryu Shield"
+cheat1_code = "30144977+0042"
+cheat1_enable = "true"
+
+cheat2_desc = "Ryu Helmet"
+cheat2_code = "30144978+0031"
+cheat2_enable = "true"
+
+cheat3_desc = "Ryu Armor"
+cheat3_code = "30144979+001F"
+cheat3_enable = "true"
+
+cheat4_desc = "Ryu Option 1"
+cheat4_code = "3014497A+0019"
+cheat4_enable = "true"
+
+cheat5_desc = "Ryu Option 2"
+cheat5_code = "3014497B+000D"
+cheat5_enable = "true"
+
+cheat6_desc = "1st Member Status Immune"
+cheat6_code = "30145F10+0000"
+cheat6_enable = "true"
+
+cheat7_desc = "2nd Member Status Immune"
+cheat7_code = "30146050+0000"
+cheat7_enable = "true"
+
+cheat8_desc = "3rd Member Status Immune"
+cheat8_code = "30146190+0000"
+cheat8_enable = "true"

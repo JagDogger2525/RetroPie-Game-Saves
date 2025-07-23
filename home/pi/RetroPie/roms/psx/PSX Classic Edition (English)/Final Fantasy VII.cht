@@ -1,0 +1,5 @@
+cheats = 1
+
+cheat0_desc = "Debug Room"
+cheat0_code = "8009ABF6+0041"
+cheat0_enable = "true"

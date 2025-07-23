@@ -1,0 +1,189 @@
+cheats = 47
+
+cheat0_desc = "Red Heart - Popuri"
+cheat0_code = "800786B4+FFFF"
+cheat0_enable = "true"
+
+cheat1_desc = "Red Heart - Elli"
+cheat1_code = "80077298+FFFF"
+cheat1_enable = "true"
+
+cheat2_desc = "Red Heart - Karen"
+cheat2_code = "800767A0+FFFF"
+cheat2_enable = "true"
+
+cheat3_desc = "Red Heart - Ann"
+cheat3_code = "80076EF0+FFFF"
+cheat3_enable = "true"
+
+cheat4_desc = "Red Heart - Mary"
+cheat4_code = "80077BBC+FFFF"
+cheat4_enable = "true"
+
+cheat5_desc = "Watering Can Always Full"
+cheat5_code = "80071A88+0064"
+cheat5_enable = "true"
+
+cheat6_desc = "Max Lumber"
+cheat6_code = "80070D38+03E7"
+cheat6_enable = "true"
+
+cheat7_desc = "Max Fodder"
+cheat7_code = "80070D3A+03E7"
+cheat7_enable = "true"
+
+cheat8_desc = "Max Fish Food"
+cheat8_code = "80070D3E+03E7"
+cheat8_enable = "true"
+
+cheat9_desc = "Max Chicken Feed"
+cheat9_code = "80070D40+03E7"
+cheat9_enable = "true"
+
+cheat10_desc = "Infinite Money"
+cheat10_code = "80071A5C+FFFF"
+cheat10_enable = "true"
+
+cheat11_desc = "Max Money (1/2)"
+cheat11_code = "80071A5C+967F"
+cheat11_enable = "true"
+
+cheat12_desc = "Max Money (2/2)"
+cheat12_code = "80071A5E+0098"
+cheat12_enable = "true"
+
+cheat13_desc = "Infinite Medals"
+cheat13_code = "80071A60+FFFF"
+cheat13_enable = "true"
+
+cheat14_desc = "Max Medals (1/2)"
+cheat14_code = "80071A60+967F"
+cheat14_enable = "true"
+
+cheat15_desc = "Max Medals (2/2)"
+cheat15_code = "80071A62+0098"
+cheat15_enable = "true"
+
+cheat16_desc = "Max Earnings (1/2)"
+cheat16_code = "800711FC+967F"
+cheat16_enable = "true"
+
+cheat17_desc = "Max Earnings (2/2)"
+cheat17_code = "800711FE+0098"
+cheat17_enable = "true"
+
+cheat18_desc = "Zero Reduction Expenses"
+cheat18_code = "80071200+0000"
+cheat18_enable = "true"
+
+cheat19_desc = "Max Level - Sickle"
+cheat19_code = "80071A40+FFFF"
+cheat19_enable = "true"
+
+cheat2_desc = "Max Level - Hoe"
+cheat2_code = "80071A42+FFFF"
+cheat20_enable = "true"
+
+cheat2_desc = "Max Level - Ax"
+cheat2_code = "80071A44+FFFF"
+cheat21_enable = "true"
+
+cheat2_desc = "Max Level - Hammer"
+cheat2_code = "80071A46+FFFF"
+cheat22_enable = "true"
+
+cheat2_desc = "Max Level - Watering Can"
+cheat2_code = "80071A48+FFFF"
+cheat23_enable = "true"
+
+cheat24_desc = "Max Amount Shipped (1/2)"
+cheat24_code = "50001502+0000"
+cheat24_enable = "true"
+
+cheat25_desc = "Max Amount Shipped (2/2)"
+cheat25_code = "800711C4+03E7"
+cheat25_enable = "true"
+
+cheat26_desc = "All Item Shipped (1/21)"
+cheat26_code = "800711C4+03E7
+cheat26_enable = "true"
+
+cheat27_desc = "All Item Shipped (2/21)"
+cheat27_code = "800711C6+03E7
+cheat27_enable = "true"
+
+cheat28_desc = "All Item Shipped (3/21)"
+cheat28_code = "800711C8+03E7
+cheat28_enable = "true"
+
+cheat29_desc = "All Item Shipped (4/21)"
+cheat29_code = "800711CA+03E7
+cheat29_enable = "true"
+
+cheat30_desc = "All Item Shipped (5/21)"
+cheat30_code = "800711CC+03E7
+cheat30_enable = "true"
+
+cheat31_desc = "All Item Shipped (6/21)"
+cheat31_code = "800711CE+03E7
+cheat31_enable = "true"
+
+cheat32_desc = "All Item Shipped (7/21)"
+cheat32_code = "800711D0+03E7
+cheat32_enable = "true"
+
+cheat33_desc = "All Item Shipped (8/21)"
+cheat33_code = "800711D2+03E7
+cheat33_enable = "true"
+
+cheat34_desc = "All Item Shipped (9/21)"
+cheat34_code = "800711D4+03E7
+cheat34_enable = "true"
+
+cheat35_desc = "All Item Shipped (10/21)"
+cheat35_code = "800711D6+03E7
+cheat35_enable = "true"
+
+cheat36_desc = "All Item Shipped (11/21)"
+cheat36_code = "800711D8+03E7
+cheat36_enable = "true"
+
+cheat37_desc = "All Item Shipped (12/21)"
+cheat37_code = "800711DA+03E7
+cheat37_enable = "true"
+
+cheat38_desc = "All Item Shipped (13/21)"
+cheat38_code = "800711DC+03E7
+cheat38_enable = "true"
+
+cheat39_desc = "All Item Shipped (14/21)"
+cheat39_code = "800711DE+03E7
+cheat39_enable = "true"
+
+cheat40_desc = "All Item Shipped (15/21)"
+cheat40_code = "800711E0+03E7
+cheat40_enable = "true"
+
+cheat41_desc = "All Item Shipped (16/21)"
+cheat41_code = "800711E2+03E7
+cheat41_enable = "true"
+
+cheat42_desc = "All Item Shipped (17/21)"
+cheat42_code = "800711E4+03E7
+cheat42_enable = "true"
+
+cheat43_desc = "All Item Shipped (18/21)"
+cheat43_code = "800711E6+03E7
+cheat43_enable = "true"
+
+cheat44_desc = "All Item Shipped (19/21)"
+cheat44_code = "800711E8+03E7
+cheat44_enable = "true"
+
+cheat45_desc = "All Item Shipped (20/21)"
+cheat45_code = "800711EA+03E7
+cheat45_enable = "true"
+
+cheat46_desc = "All Item Shipped (21/21)"
+cheat46_code = "800711EC+03E7
+cheat46_enable = "true"
