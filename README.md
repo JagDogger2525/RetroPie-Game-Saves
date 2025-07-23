@@ -12,7 +12,7 @@ Please see what I have in store for you for your RetroPie game save needs.
 
 (N64 Save Converter)
 
-pj64tosrm Author: Anthony Moskunas IV (Anthony_IV)
+pj64tosrm Posters: Anthony Moskunas IV (Anthony_IV) & jas282
 
 To use pj64tosrm, just drag and drop the save you want to convert and make sure the naming convention matches the game so it would be able to load in properly
 
