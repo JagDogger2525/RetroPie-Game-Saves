@@ -12,7 +12,7 @@ As to why the folders are the way they are, home has the .srm files (minus PSP) 
 
 
 
-Honorary Mention: https://savefileconverter.com/#/mister (Gameboy [Color] .sav -> .srm Save Convertor)
+Honorary Mention: https://savefileconverter.com/#/mister (Game Save Converter)
 
 
 
