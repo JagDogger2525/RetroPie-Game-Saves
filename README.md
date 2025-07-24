@@ -12,7 +12,9 @@ As to why the folders are the way they are, home has the .srm files (minus PSP) 
 
 
 
-Honorary Mention: https://savefileconverter.com/#/mister (Game Save Converter)
+Game Save Converter: https://savefileconverter.com/#/mister
+
+This website allows you to convert saves into their respective extentions.
 
 
 
