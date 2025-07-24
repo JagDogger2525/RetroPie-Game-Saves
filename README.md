@@ -77,7 +77,7 @@ Folder: home > roms > gba
 Folder: home > roms > gbc
 
 * Pokemon Trading Card Game // Game Beaten - Name: MARK - Album: 183/226 - Time: 21:24
-* The Legend of Zelda - Link's Awakening // Slot 1 - Tunic: Red | Slot 2 - Tunic: Green | Slot 3 - Tunic: Blue | All - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
+* The Legend of Zelda - Link's Awakening DX // Slot 1 - Tunic: Red | Slot 2 - Tunic: Green | Slot 3 - Tunic: Blue | All - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 
 
 
