@@ -4,7 +4,7 @@ Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I 
 
 Please see what I have in store for you for your RetroPie game save needs.
 
-As to why the folders are the way they are, it is because home has the .srm files (minus PSP) while opt has the PSP and non-LibRetro N64 Game Saves. The folders in the home > rom section between the Classic Edition, More, English, and Japanese is because to align the saves with the right region, language, and set that the saves would be for. Once downloaded, the saves would be transferred to where the saves would be used with the right naming convention, whether it be an updated version or downgraded version.
+As to why the folders are the way they are, home has the .srm files (minus PSP) while opt has the PSP and non-LibRetro N64 Game Saves. The folders in the home > rom section between the Classic Edition, More, English, and Japanese is because to align the saves with the right region, language, and set that the saves would be for. Once downloaded, the saves would be transferred to where the saves would be used with the right naming convention, whether the save be used for an updated version or downgraded version.
 
 
 
@@ -133,6 +133,7 @@ Folder: home > roms > psx
 * LEGO Racers // Everything Unlocked - Custom Racer: Veronica
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Thrill Kill // Everything Unlocked
+* Twisted Metal - Small Brawl // Everything Unlocked
 * Vigilante 8 - 2nd Offense // Everything Unlocked
 * Vigilante 8 // Everything Unlocked
 * Wild Arms // Slot 1: Before Cecilia Gets Kidnapped - Location: Adlehyde - Levels: 5-6 - Time: 1:45 - Gella: 1731 | Slot 2: After Cecilia Gets Kidnapped - Location: Adlehyde - Levels: 5-6 - Gella: 2239 - Time: 1:55
@@ -145,6 +146,9 @@ Folder: home > roms > psx
 
 Folder: home > roms > snes
 
+* Donkey Kong Country // 
+* Donkey Kong Country 2 - Diddy's Kong Quest // Slot 1 - 102%
+* Donkey Kong Country 3 - Dixie Kong's Double Trouble // Slot 1 - 103%
 * Earthbound // At the second visit to Onett for Meteorite Piece
 * Final Fantasy II // Team: Cecil, Kain, Cid, Rosa, Yang - Location: Outside Baron - Levels: 21-23 - GP: 48417 - Time: 5:00
 * Final Fantasy III // Team: Edgar, Sabin, Terra, Cyan - Location: Before World Split - Levels: 21-25 - GP: 2095 - Steps: 24433 - Time: 11:23
@@ -159,6 +163,8 @@ Folder: home > roms > snes
 * Super Mario World // 95 Exits Cleared - Location: Valley Fortress before Back Door
 * Super Mario World - Super Mario Bros. 4 (Japan) // 95 Exits Cleared - Location: Valley Fortress before Back Door
 * Super Mario World Redrawn // 95 Exits Cleared - Location: Valley Fortress before Back Door
+* Super Mario World 2 - Yoshi's Island // Game Completed - All but Extra have 100%
+* Super Mario - Yossy Island (Japan) // Game Completed - All but Extra have 100%
 * Super Punch-Out!! // Game Completed - 16-0 - Name: Lil' Mac
 * Super SpongeBob Kart // 150 & Special Cup (100CC & 150CC) Unlocked
 * The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Hearts: 13 - Rupees: 999
