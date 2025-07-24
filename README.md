@@ -37,7 +37,7 @@ Original Post: https://forums.libretro.com/t/n64-save-file-convert/1190/4
 Folder: home > BIOS > dc
 
 * 18 Wheeler // Everything Unlocked
-* Capcom vs. CNK 2 // Everything Unlocked
+* Capcom vs. SNK 2 // Everything Unlocked
 * Marvel vs. Capcom 2 // Everything Unlocked
 * Project Justice // Everything Unlocked
 * Power Stone // Everything Unlocked
