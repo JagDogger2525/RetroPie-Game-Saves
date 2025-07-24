@@ -87,6 +87,9 @@ Folder: home > roms > gbc
 
 Folder: home > roms > n64
 
+* Banjo-Kazooie // Slot 1 - Jigsaws: 100 - Notes: 900 - Time: 13:11:29
+* Banjo-Tooie // Slot 1 - Jiggies: 90 - Time: 20:21:01
+* Conker's Bad Fur Day // Slot 1 - Game Completed - Time: 8:49:03
 * Donkey Kong 64 // 101% Unlocked
 * GoldenEye 007 // Game Completed
 * Jet Force Gemini // Slot 1 - Game Completed - Time: 16:08
@@ -146,7 +149,9 @@ Folder: home > roms > psx
 
 Folder: home > roms > snes
 
-* Donkey Kong Country // 
+* Breath of Fire // Slot 1 - Team: Ryu, Karn, Bleu, Nina - Location: Drogen - Levels: 38-46 - G: 999999
+* Chrono Trigger // 
+* Donkey Kong Country // Slot 1 - 1 Player - 101% Complete - Time: 01:36
 * Donkey Kong Country 2 - Diddy's Kong Quest // Slot 1 - 102%
 * Donkey Kong Country 3 - Dixie Kong's Double Trouble // Slot 1 - 103%
 * Earthbound // At the second visit to Onett for Meteorite Piece
@@ -167,6 +172,7 @@ Folder: home > roms > snes
 * Super Mario - Yossy Island (Japan) // Game Completed - All but Extra have 100%
 * Super Punch-Out!! // Game Completed - 16-0 - Name: Lil' Mac
 * Super SpongeBob Kart // 150 & Special Cup (100CC & 150CC) Unlocked
+* Star Fox 2 // All Pepper Medals Obtained - All Pilots have Star Ranks
 * The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Hearts: 13 - Rupees: 999
 
 
@@ -177,6 +183,9 @@ Folder: home > roms > snes
 
 Folder: opt > n64
 
+* Banjo-Kazooie // Slot 1 - Jigsaws: 100 - Notes: 900 - Time: 13:11:29
+* Banjo-Tooie // Slot 1 - Jiggies: 90 - Time: 20:21:01
+* Conker's Bad Fur Day // Slot 1 - Game Completed - Time: 8:49:03
 * Donkey Kong 64 // 101% Unlocked
 * GoldenEye 007 // Game Completed
 * Jet Force Gemini // Slot 1 - Game Completed - Time: 16:08
