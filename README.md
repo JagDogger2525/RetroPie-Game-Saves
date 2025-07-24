@@ -4,7 +4,7 @@ Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I 
 
 Please see what I have in store for you for your RetroPie game save needs.
 
-As to why the folders are the way they are, home has the .srm files (minus PSP) while opt has the PSP and non-LibRetro N64 Game Saves. The folders in the home > rom section between the Classic Edition, More, English, and Japanese is because to align the saves with the right region, language, and set that the saves would be for. Once downloaded, the saves would be transferred to where the saves would be used with the right naming convention, whether the save be used for an updated version or downgraded version.
+As to why the folders are the way they are, home has the .srm files (minus PSP) while opt has the PSP and non-LibRetro N64 Game Saves. The folders in the home > rom section between the Classic Edition, More, English, and Japanese is to align the saves with the right region, language, and set that the saves would be for. Once downloaded, the saves would be transferred to where the saves would be used with the right naming convention, whether the save be used for an updated version or downgraded version.
 
 
 
