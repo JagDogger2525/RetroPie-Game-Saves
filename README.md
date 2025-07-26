@@ -196,6 +196,16 @@ Folder: home > roms > snes
 
 
 
+Folder: home > roms > vb
+
+* Virtual Boy Wario Land // Slot 1 - Save Point towards Level 14 - All Treasures Found - Coins: 99999 - Lives: 26 - Hearts: 95 - Time: 1:19:19 (Best Ending Awaits)
+
+
+
+---
+
+
+
 Folder: opt > n64
 
 * Banjo-Kazooie // Slot 1 - Jigsaws: 100 - Notes: 900 - Time: 13:11:29
