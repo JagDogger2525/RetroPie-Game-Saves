@@ -39,6 +39,7 @@ Original Post: https://forums.libretro.com/t/n64-save-file-convert/1190/4
 Folder: Teleroboxer (RAM)
 * Fight 2-8 // Moved to the next fight
 * End // Name: Telero - Champsionship Run - All 8 Fights Unlocked/Randomized
+* TeleroBoxer.srm // Second Fight - RetroPie Save for Future Converter (ram -> srm)
 
 
 
