@@ -154,7 +154,7 @@ Folder: home > roms > psx
 * Twisted Metal - Small Brawl // Everything Unlocked
 * Vigilante 8 - 2nd Offense // Everything Unlocked
 * Vigilante 8 // Everything Unlocked
-* Wild Arms // Slot 1: Before Cecilia Gets Kidnapped - Location: Adlehyde - Levels: 5-6 - Time: 1:45 - Gella: 1731 | Slot 2: After Cecilia Gets Kidnapped - Location: Adlehyde - Levels: 5-6 - Gella: 2239 - Time: 1:55
+* Wild Arms // Slot 1: Before Cecilia Leaves - Location: Adlehyde - Levels: 5-6 - Time: 1:45 - Gella: 1731 | Slot 2: After Cecilia Leaves - Location: Adlehyde - Levels: 5-6 - Gella: 2239 - Time: 1:55
 
 
 
@@ -165,11 +165,11 @@ Folder: home > roms > psx
 Folder: home > roms > snes
 
 * Breath of Fire // Slot 1 - Team: Ryu, Karn, Bleu, Nina - Location: Drogen - Levels: 38-46 - G: 999999
-* Chrono Trigger // 
+* Chrono Trigger // Slot 1 - Team: Crono, Frog, Magus - Chapter: The Fated Hour - Location: Black Omen - Levels: 62-70 - Gold: 469239 - Save #: 10 - Time: 12:39 / Slot 2 - Team: Crono, Robo, Frog - Chapter: The Final Battle - Location: End of Time - Levels: 57-61 - Gold: 50824 - Save #: 126 - Time: 51:21 / Slot 3: Crono, Magus, Frog - Chapter: The Fated Hour - Location: Black Omen - Levels: 47-52 - Gold: 152684 - Save #: 112 - Time: 46:18
 * Donkey Kong Country // Slot 1 - 1 Player - 101% Complete - Time: 01:36
 * Donkey Kong Country 2 - Diddy's Kong Quest // Slot 1 - 102%
 * Donkey Kong Country 3 - Dixie Kong's Double Trouble // Slot 1 - 103%
-* Earthbound // At the second visit to Onett for Meteorite Piece
+* Earthbound // Slot 1: Second Visit to Onett for Meteorite Piece - Location: Ness' House - Levels: 58-82 - Money: $184587
 * Final Fantasy II // Team: Cecil, Kain, Cid, Rosa, Yang - Location: Outside Baron - Levels: 21-23 - GP: 48417 - Time: 5:00
 * Final Fantasy III // Team: Edgar, Sabin, Terra, Cyan - Location: Before World Split - Levels: 21-25 - GP: 2095 - Steps: 24433 - Time: 11:23
 * Hyper Street Kart // 150 & Special Cup (100CC & 150CC) Unlocked
@@ -198,7 +198,7 @@ Folder: home > roms > snes
 
 Folder: home > roms > vb
 
-* Virtual Boy Wario Land // Slot 1 - Save Point towards Level 14 - All Treasures Found - Coins: 99999 - Lives: 26 - Hearts: 95 - Time: 1:19:19 (Best Ending Awaits)
+* Virtual Boy Wario Land // Slot 1 - Save Point towards Level 14 - All Treasures Found - Coins: 99999 - Lives: 26 - Hearts: 95 - Time: 1:19:19
 
 
 
