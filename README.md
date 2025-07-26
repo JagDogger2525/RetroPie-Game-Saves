@@ -1,6 +1,6 @@
 # RetroPie Game Saves
 
-Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I have either run through myself or another has run through. There are 9 systems here where the game saves majoritively encompass either RPGs or Multiplayer.
+Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I have either run through myself or another has run through. There are ten game systems that are presented here, one of which is not yet converted to RetroPie but is the complete save set for the game.
 
 Please see what I have in store for you for your RetroPie game save needs.
 
@@ -29,6 +29,16 @@ pj64tosrm Posters: Anthony Moskunas IV (Anthony_IV) & jas282
 To use pj64tosrm, just drag and drop the save you want to convert and make sure the naming convention matches the game so it would be able to load in properly
 
 Original Post: https://forums.libretro.com/t/n64-save-file-convert/1190/4
+
+
+
+---
+
+
+
+Folder: Teleroboxer (RAM)
+* Fight 2-8 // Moved to the next fight
+* End // Name: Telero - Champsionship Run - All 8 Fights Unlocked/Randomized
 
 
 
