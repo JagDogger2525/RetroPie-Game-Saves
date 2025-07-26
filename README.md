@@ -6,6 +6,8 @@ Please see what I have in store for you for your RetroPie game save needs.
 
 As to why the folders are the way they are, home has the .srm files (minus PSP) while opt has the PSP and non-LibRetro N64 Game Saves. The folders in the home > rom section between the Classic Edition, More, English, and Japanese is to align the saves with the right region, language, and set that the saves would be for. Once downloaded, the saves would be transferred to where the saves would be used with the right naming convention, whether the save be used for an updated version or downgraded version.
 
+As a heads up, Teleroboxer is for Virtual Boy and was run through Red Dragon.
+
 
 
 ---
@@ -36,7 +38,7 @@ Original Post: https://forums.libretro.com/t/n64-save-file-convert/1190/4
 
 
 
-Folder: Teleroboxer (RAM) [Virtual Boy]
+Folder: Teleroboxer (RAM)
 * Fight 2-8 // Moved to the next fight
 * End // Name: Telero - Champsionship Run - All 8 Fights Unlocked/Randomized
 * TeleroBoxer.srm // Second Fight - RetroPie Save for Future Converter (ram -> srm)
