@@ -69,7 +69,7 @@ Folder: home > BIOS > dc
 
 Folder: home > roms > gb
 
-* Pokemon - Blue/Red Version // All 3 Starters - Location: Viridian City Poke Center - Badges: 0 - Money: 2175 - Time: 00:10 | 00:11
+* Pokemon - Blue/Red Version // All 3 Starters (Lv. 6) - Location: Viridian City Poke Center - Badges: 0 - Money: 2175 - Time: 00:10 | 00:11
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
