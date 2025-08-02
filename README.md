@@ -71,7 +71,7 @@ Folder: home > roms > gb
 
 * Pokemon - Blue/Red Version // All 3 Starters (Lv. 6) - Location: Viridian City Poke Center - Rival Pokemon: Squirtle - Badges: 0 - Money: 2175 - Time: 00:10 | 00:11
 * Pokemon - Blue Version (Fossils) // Team: Bulbasuar (14), Squirtle (11), Charmander (11), Pikachu (7) - Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle - Badges: 1 - Money: 3204 - Time: 02:28
-* Pokemon - Blue Version (Current) // Team: Ratata (5), Abra, 10, Geodude (17), Wartortle (16), Ivysaur (17), Charmander (11) - Location: Route 24 - Rival Pokemon: Squirtle - Badges: 2 - Fossil Chosen: Helix/Right - Money: 8518 - Time: 03:31
+* Pokemon - Blue Version (Current) // Team: Bellsprout (15), Pikachu (14), Charmeleon (25), Ivysaur (25), Wartortle (23) - Location: Viridian City - Rival Pokemon: Squirtle - Badges: 3 - Fossil Chosen: Helix/Right - Money: 5364 - Time: 14:11
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
