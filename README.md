@@ -11,12 +11,12 @@ As a heads up, Teleroboxer is for Virtual Boy and was run through Red Dragon.
 For Pokémon (Current), the following boxes are what I am using them as:
 - Box 1: Caught Pokémon Awaiting Evolution #1
 - Box 2: Caught Pokémon Awaiting Evolution #2
-- Box 3: Main Pokémon
-- Box 4: Blue/Red Exclusives
-- Box 5: Extra Caught (for Trading)
-- Box 6: In-Game Trainer Traded
-- Box 7: Stone Evolution
-- Box 8: Trade Evolution
+- Box 3: Caught Pokémon Awaiting Evolution #3
+- Box 4: Main Pokémon
+- Box 5: Red/Blue Exclusives
+- Box 6: Extra Caught (for Trading)
+- Box 7: In-Game Trainer Traded
+- Box 8: Stone/Trade Evolution
 - Box 9: Single Evolution #1
 - Box 10: Single Evolution #2
 - Box 11: Fully Evolved #1
@@ -84,7 +84,7 @@ Folder: home > BIOS > dc
 Folder: home > roms > gb
 
 * Pokemon - Blue/Red Version (Base) // All 3 Starters (Lv. 6) - Location: Viridian City Poke Center - Rival Pokemon: Squirtle - Badges: 0 - Money: 2175 - Time: 00:10 | 00:11
-* Pokemon - Blue Version (Current) // Team: Sandshrew (17), Meowth (20), Wartortle (31), Snorlax (30) - Location: Vermilion City - Rival Pokemon: Squirtle - Badges: 4 - Fossil Chosen: Helix/Right - Dojo Choice: Hitmonlee - Money: 40255 - Time: 24:19
+* Pokemon - Blue Version (Current) // Awaiting to Reorganize
 * Pokemon - Blue Version (Dojo) // Team: Wartortle (28), Charmeleon (30), Venusaur (33), Pikachu (15), Sandshrew (16) - Location: Saffron City Fighting Dojo before Pokemon Choice - Rival Pokemon: Squirtle - Badges: 3 - Fossil Chosen: Helix/Right - Money: 2991 - Time: 18:59
 * Pokemon - Blue Version (Fossils) // Team: Bulbasuar (14), Squirtle (11), Charmander (11), Pikachu (7) - Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle - Badges: 1 - Money: 3204 - Time: 02:28
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
