@@ -92,11 +92,12 @@ Folder: home > roms > gb
 * Pokemon - Blue/Red Version (Base) // All 3 Starters (Lv. 6) - Location: Viridian City Poke Center - Rival Pokemon: Squirtle - Badges: 0 - Money: 2175 - Time: 00:10 | 00:11
 * Pokemon - Blue Version (Current) // Team: Snorlax (42), Mew (8) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Helix - Dojo Chosen: Hitmonlee - Money: 269603 - Time: 38:05
 * Pokemon - Blue Version (Dojo) // Team: Wartortle (28), Charmeleon (30), Venusaur (33), Pikachu (15), Sandshrew (16) - Location: Saffron City Fighting Dojo before Pokemon Choice - Rival Pokemon: Squirtle - Badges: 3 - Fossil Chosen: Helix - Money: 2991 - Time: 18:59
-* Pokemon - Blue Version (Fossils) // Team: Bulbasuar (14), Squirtle (11), Charmander (11), Pikachu (7) - Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle - Badges: 1 - Money: 3204 - Time: 02:28
+* Pokemon - Blue Version (Fossils) // Team: Bulbasuar (14), Squirtle (11), Charmander (11), Pikachu (7) - Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle - Badges: 1 - Money: 3204 - Time: 2:28
 * Pokemon - Blue Version (Freedom) // Team: Snorlax (42), Mew (8) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Helix - Dojo Chosen: Hitmonlee - Money: 269603 - Time: 38:05
 * Pokemon - Blue Version [Mew] // Team: Snorlax (42), Victreebel (22), Pidgeotto (28) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Helix - Dojo Chosen: Hitmonlee - Money: 43069 - Time: 34:07
-* Pokemon - Red Version (Current // In Progress
-* Pokemon - Red Version (Fossils) // Team: Wartortle (28), Charmeleon (30), Ivysaur (33) - Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle - Badges: 1 - Money: 4026 - Time: 01:59
+* Pokemon - Red Version (Current) // Team: Charmeleon (30), Ivysaur (30), Wartortle (28), Spearow (15) - Location: Vermilion City Poke Center - Rival Pokemon: Squirtle - Badges: 3 - Fossil Chosen: Dome - Dojo Chosen: Hitmonchan - Money: 13993 - Time: 6:00
+* Pokemon - Red Version (Dojo) // Team: Charmeleon (30), Ivysaur (30), Wartortle (28) - Location: Saffron City Fighting Dojo before Pokemon Choice - Rival Pokemon: Squirtle - Badges: 3 - Fossil Chosen: Dome - Money: 13993 - Time: 5:42
+* Pokemon - Red Version (Fossils) // Team: Wartortle (19), Ivysaur (22), Charmeleon (21) - Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle - Badges: 1 - Money: 4026 - Time: 1:59
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
