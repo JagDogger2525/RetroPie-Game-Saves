@@ -95,10 +95,10 @@ Folder: home > roms > gb
 * Pokemon - Blue Version (Fossils) // Team: Bulbasuar (14), Squirtle (11), Charmander (11), Pikachu (7) - Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle - Badges: 1 - Money: 3204 - Time: 2:28
 * Pokemon - Blue Version (Freedom) // Team: Snorlax (42), Mew (8) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Helix - Dojo Chosen: Hitmonlee - Money: 269603 - Time: 38:05
 * Pokemon - Blue Version [Mew] // Team: Snorlax (42), Victreebel (22), Pidgeotto (28) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Helix - Dojo Chosen: Hitmonlee - Money: 43069 - Time: 34:07
-* Pokemon - Red Version (Current) // Team: Snorlax (33), Mew (19) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Dome - Dojo Chosen: Hitmonchan - Money: 500807 - Time: 13:06
+* Pokemon - Red Version (Current) // Team: Snorlax (33), Mew (19) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Dome - Dojo Chosen: Hitmonchan - Money: 500807 - Time: 13:08
 * Pokemon - Red Version (Dojo) // Team: Charmeleon (30), Ivysaur (30), Wartortle (28) - Location: Saffron City Fighting Dojo before Pokemon Choice - Rival Pokemon: Squirtle - Badges: 3 - Fossil Chosen: Dome - Money: 13993 - Time: 5:42
 * Pokemon - Red Version (Fossils) // Team: Wartortle (19), Ivysaur (22), Charmeleon (21) - Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle - Badges: 1 - Money: 4026 - Time: 1:59
-* Pokemon - Red Version [Mew] // Team: Snorlax (33), Mew (19) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Dome - Dojo Chosen: Hitmonchan - Money: 500807 - Time: 13:06
+* Pokemon - Red Version [Mew] // Team: Snorlax (33), Mew (19) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Dome - Dojo Chosen: Hitmonchan - Money: 500807 - Time: 13:08
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
