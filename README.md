@@ -150,11 +150,9 @@ Folder: home > roms > n64
 
 
 
-Folder: home > roms > nes (Note: Remove the last part to use the save [Ex: Crystalis.srm])
+Folder: home > roms > nes
 
-* Crystalis (Level 2) // Name: Simea - Location: Leaf - Level: 2 - Armor: Ceramic Suit / Battle Shield - Money: 21000
-* Crystalis (Level 16) // Name: Simea - Location: Goa - Level: 16 - Armor: Ceramic Suit / Battle Shield - Money: 65000
-* Crystalis (End Game) // Name: Simea - Location: Leaf - Level: 16 - Armor: Psycho Armor / Psycho Shield - Money: 65535
+* Crystalis // Slot 1 - Name: Simea - Location: Leaf - Level: 2 - Armor: Ceramic Suit / Battle Shield - Money: 65535 | Slot 2 - Name: Simea - Location: Leaf - Level: 16 - Armor: Psycho Armor / Psycho Shield - Money: 65535
 
 
 
