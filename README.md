@@ -135,6 +135,7 @@ Folder: home > roms > n64
 * Banjo-Kazooie // Slot 1 - Jigsaws: 100 - Notes: 900 - Time: 13:11:29
 * Banjo-Tooie // Slot 1 - Jiggies: 90 - Time: 20:21:01
 * Conker's Bad Fur Day // Slot 1 - Game Completed - Time: 8:49:03
+* Diddy Kong Racing // Slot 1 - 47 Balloons via Adventure 1 | Slot 2 - 47 Balloons via Adventure 2
 * Donkey Kong 64 // 101% Unlocked
 * GoldenEye 007 // Game Completed
 * Jet Force Gemini // Slot 1 - Game Completed - Time: 16:08
@@ -241,6 +242,7 @@ Folder: opt > n64
 * Banjo-Kazooie // Slot 1 - Jigsaws: 100 - Notes: 900 - Time: 13:11:29
 * Banjo-Tooie // Slot 1 - Jiggies: 90 - Time: 20:21:01
 * Conker's Bad Fur Day // Slot 1 - Game Completed - Time: 8:49:03
+* Diddy Kong Racing // Slot 1 - 47 Balloons via Adventure 1 | Slot 2 - 47 Balloons via Adventure 2
 * Donkey Kong 64 // 101% Unlocked
 * GoldenEye 007 // Game Completed
 * Jet Force Gemini // Slot 1 - Game Completed - Time: 16:08
