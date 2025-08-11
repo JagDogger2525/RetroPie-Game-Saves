@@ -79,8 +79,8 @@ Folder: home > BIOS > dc
 Folder: home > roms > gb
 
 
-* Pokemon - Blue Version // Team: Snorlax (42), Mew (8) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Helix - Dojo Chosen: Hitmonlee - Money: 269603 - Time: 38:05
-* Pokemon - Red Version // Team: Snorlax (33), Mew (19) - Location: Saffron City Poke Center - Rival Pokemon: Squirtle - Badges: 5 - Fossil Chosen: Dome - Dojo Chosen: Hitmonchan - Money: 500807 - Time: 13:08
+* Pokemon - Blue Version // Awaiting Confirmation
+* Pokemon - Red Version // Awaiting Confirmation
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
