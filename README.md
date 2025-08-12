@@ -262,6 +262,8 @@ Folder: Pokémon (GB)
 * Base // All 3 Starters - Location: Viridian City Poke Center
 * Dojo // Location: Saffron City Fighting Dojo before Pokemon Choice - Rival Pokemon: Squirtle
 * Fossils // Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle
+* Grind // Cerulean Cave - Team: Snorlax (80[?]), Dragonair (40) - Grinding to get Dragonair as close to Evolving into Dragonite for Evolution Transfer
+* Indigo Plateau // Before the Elite Four
 * Mew // Location: Saffron City Poke Center - Rival Pokemon: Squirtle
 
 
