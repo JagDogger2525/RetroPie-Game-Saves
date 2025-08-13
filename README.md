@@ -23,7 +23,7 @@ For Pokémon, the following boxes are what I am using them as:
 - Box 6: Extra Caught (for Trading)
 - Box 7: In-Game Trainer Traded
 - Box 8: Stone/Trade Evolution
-- Box 9: Single Evolution #1
+- Box 9: Single Evolution
 - Box 10: Fully Evolved #1
 - Box 11: Fully Evolved #2
 - Box 12: Fully Evolved #3
