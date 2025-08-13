@@ -24,9 +24,9 @@ For Pokémon, the following boxes are what I am using them as:
 - Box 7: In-Game Trainer Traded
 - Box 8: Stone/Trade Evolution
 - Box 9: Single Evolution #1
-- Box 10: Single Evolution #2
-- Box 11: Fully Evolved #1
-- Box 12: Fully Evolved #2
+- Box 10: Fully Evolved #1
+- Box 11: Fully Evolved #2
+- Box 12: Fully Evolved #3
 
 
 
@@ -79,7 +79,7 @@ Folder: home > BIOS > dc
 Folder: home > roms > gb
 
 
-* Pokemon - Blue Version // Awaiting Confirmation
+* Pokemon - Blue Version // Awaiting Organization - All 8 Badges - All 151 Pokémon - Outside Indigo Plateau
 * Pokemon - Red Version // Awaiting Confirmation
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
