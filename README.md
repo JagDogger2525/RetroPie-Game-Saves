@@ -15,18 +15,18 @@ As a heads up, Teleroboxer is for Virtual Boy and was run through Red Dragon.
 
 
 For Pokémon, the following boxes are what I am using them as:
-- Box 1: Caught Pokémon Awaiting Evolution #1
-- Box 2: Caught Pokémon Awaiting Evolution #2
-- Box 3: Caught Pokémon Awaiting Evolution #3
-- Box 4: Main Pokémon
-- Box 5: Red/Blue Exclusives
-- Box 6: Extra Caught (for Trading)
+- Box 1: Fully Evolved #1
+- Box 2: Fully Evolved #2
+- Box 3: Fully Evolved #3
+- Box 4: Single Evolution
+- Box 5: Main Pokémon
+- Box 6: Red/Blue Exclusives
 - Box 7: In-Game Trainer Traded
 - Box 8: Stone/Trade Evolution
-- Box 9: Single Evolution
-- Box 10: Fully Evolved #1
-- Box 11: Fully Evolved #2
-- Box 12: Fully Evolved #3
+- Box 9: Extra Caught (for Trading)
+- Box 10: Empty
+- Box 11: Empty
+- Box 12: Empty
 
 
 
@@ -80,7 +80,7 @@ Folder: home > roms > gb
 
 
 * Pokemon - Blue Version // Awaiting Organization - All 8 Badges - All 151 Pokémon - Outside Indigo Plateau
-* Pokemon - Red Version // Awaiting Confirmation
+* Pokemon - Red Version // Awaiting Organization - All 8 Badges - All 151 Pokémon - Outside Indigo Plateau
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
