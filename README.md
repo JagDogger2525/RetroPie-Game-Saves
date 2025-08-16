@@ -15,17 +15,17 @@ As a heads up, Teleroboxer is for Virtual Boy and was run through Red Dragon.
 
 
 For Pokémon, the following boxes are what I am using them as:
-- Box 1: Fully Evolved #1
-- Box 2: Fully Evolved #2
-- Box 3: Fully Evolved #3
-- Box 4: Single Evolution
+- Box 1: Final Evolution #1
+- Box 2: Final Evolution #2
+- Box 3: Final Evolution #3
+- Box 4: Final Evolution #4
 - Box 5: Main Pokémon
 - Box 6: Red/Blue Exclusives
 - Box 7: In-Game Trainer Traded
 - Box 8: Stone/Trade Evolution
 - Box 9: Extra Caught (for Trading)
-- Box 10: Empty
-- Box 11: Empty
+- Box 10: First/Mid Evolution #1
+- Box 11: First/Mid Evolution #2
 - Box 12: Empty
 
 
