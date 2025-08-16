@@ -79,7 +79,7 @@ Folder: home > BIOS > dc
 Folder: home > roms > gb
 
 
-* Pokemon - Blue Version // Awaiting Organization - All 8 Badges - All 151 Pokémon - Outside Indigo Plateau
+* Pokemon - Blue Version // Awaiting Organization - All 8 Badges - All 151 Pokémon - Outside Indigo Plateau - Awaiting Grind for Poliwhirl and Kadabra
 * Pokemon - Red Version // Awaiting Organization - All 8 Badges - All 151 Pokémon - Outside Indigo Plateau
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
