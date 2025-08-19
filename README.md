@@ -79,8 +79,8 @@ Folder: home > BIOS > dc
 Folder: home > roms > gb
 
 
-* Pokemon - Blue Version // Name: Blue - Team: Venusaur (37), Charizard (41), Blastoise (36), Snorlax (87), Mewtwo (70), Mew (30) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 60:06
-* Pokemon - Red Version // Name: Red - Team: Venusaur (32), Charizard (36), Blastoise (36), Snorlax (100), Mewtwo (70), Mew (23) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 29:25
+* Pokemon - Blue Version // Name: Blue - Team: Venusaur (37), Charizard (41), Blastoise (36), Snorlax (87), Mewtwo (70), Mew (30) - Rival Pokemon: Squirtle - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 60:06
+* Pokemon - Red Version // Name: Red - Team: Venusaur (32), Charizard (36), Blastoise (36), Snorlax (100), Mewtwo (70), Mew (23) - Rival Pokemon: Squirtle - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 29:25
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
@@ -262,7 +262,7 @@ Folder: Pokémon (GB)
 * Base // All 3 Starters - Location: Viridian City Poke Center
 * Dojo // Location: Saffron City Fighting Dojo before Pokemon Choice - Rival Pokemon: Squirtle
 * Fossils // Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle
-* Grind // Cerulean Cave - Team: Snorlax (80[?]), Dragonair (40) - Grinding to get Dragonair as close to Evolving into Dragonite for Transfer to Indigo Plateau (Boxes 1 and 3)
+* Grind // Cerulean Cave
 * Indigo Plateau // Before the Elite Four
 * Mew // Location: Saffron City Poke Center - Rival Pokemon: Squirtle
 
