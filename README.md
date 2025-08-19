@@ -141,7 +141,7 @@ Folder: home > roms > n64
 
 Folder: home > roms > nes
 
-* Crystalis // Slot 1 - Name: Simea - Location: Leaf - Level: 2 - Armor: Ceramic Suit / Battle Shield - Money: 65535 / Slot 2 - Name: Simea - Location: Leaf - Level: 16 - Armor: Psycho Armor / Psycho Shield - Money: 65535
+* Crystalis // Slot 1 - Name: Simea - Location: Leaf - Level: 2 - Armor: Ceramic Suit / Battle Shield - Money: 65535 | Slot 2 - Name: Simea - Location: Leaf - Level: 16 - Armor: Psycho Armor / Psycho Shield - Money: 65535
 
 
 
