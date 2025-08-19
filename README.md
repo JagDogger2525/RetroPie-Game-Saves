@@ -36,7 +36,7 @@ For Pokémon, the following boxes are what I am using them as:
 
 Game Save Converter: https://savefileconverter.com/#/mister
 
-This website allows you to convert saves into their respective extentions.
+This website allows you to convert saves into their respective extensions.
 
 
 
