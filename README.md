@@ -79,9 +79,8 @@ Folder: home > BIOS > dc
 Folder: home > roms > gb
 
 
-* Pokemon - Blue Version // Team: Venusaur (37), Charizard (41), Blastoise (36), Snorlax (87), Mewtwo (70), Mew (30) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 60:00
-* Pokemon - Red Version // Awaiting Item Organization - All 8 Badges - All 151 Pokémon - Pokémon 
-Boxes Organized
+* Pokemon - Blue Version // Name: Blue - Team: Venusaur (37), Charizard (41), Blastoise (36), Snorlax (87), Mewtwo (70), Mew (30) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 60:05
+* Pokemon - Red Version // Name: Red - Team: Venusaur (32), Charizard (36), Blastoise (36), Snorlax (100), Mewtwo (70), Mew (23) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 29:25
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
