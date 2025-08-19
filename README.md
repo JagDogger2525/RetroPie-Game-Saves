@@ -197,7 +197,7 @@ Folder: home > roms > snes
 * Super Mario World 2 - Yoshi's Island // Game Completed - All but Extra have 100%
 * Super Mario - Yossy Island (Japan) // Game Completed - All but Extra have 100%
 * Super Punch-Out!! // Game Completed - 16-0 - Name: Lil' Mac
-* Super SpongeBob Kart // 150 & Special Cup (100CC & 150CC) Unlocked
+* Super SpongeBob Kart // Everything Unlocked
 * Star Fox 2 // All Pepper Medals Obtained - All Pilots have Star Ranks
 * The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Hearts: 13 - Rupees: 999
 
