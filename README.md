@@ -36,7 +36,7 @@ For Pokémon, the following boxes are what I am using them as:
 
 Game Save Converter: https://savefileconverter.com/#/mister
 
-This website allows you to convert saves into their respective extensions.
+This website allows you to convert saves into their respective extentions.
 
 
 
@@ -79,8 +79,9 @@ Folder: home > BIOS > dc
 Folder: home > roms > gb
 
 
-* Pokemon - Blue Version // Name: Blue - Team: Venusaur (37), Charizard (41), Blastoise (36), Snorlax (87), Mewtwo (70), Mew (30) - Rival Pokemon: Squirtle - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 60:06
-* Pokemon - Red Version // Name: Red - Team: Venusaur (32), Charizard (36), Blastoise (36), Snorlax (100), Mewtwo (70), Mew (23) - Rival Pokemon: Squirtle - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 29:25
+* Pokemon - Blue Version // Name: BLUE - Team: Venusaur (37), Charizard (41), Blastoise (36), Snorlax (87), Mewtwo (70), Mew (30) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 60:06
+* Pokemon - Red Version // Name: RED - Team: Venusaur (32), Charizard (36), Blastoise (36), Snorlax (100), Mewtwo (70), Mew (23) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 29:25
+* Pokemon - Yellow Version - Special Pikachu Edition // Name: YELLOW - Team: Pikachu (71), Venusaur (100), Charizard (100), Blastoise (100), Snorlax (100), Mewtwo (100) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:11
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
@@ -103,6 +104,7 @@ Folder: home > roms > gba
 
 Folder: home > roms > gbc
 
+* Pokemon - Yellow Version // Name: YELLOW - Team: Pikachu (71), Venusaur (100), Charizard (100), Blastoise (100), Snorlax (100), Mewtwo (100) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:11
 * Pokemon Trading Card Game // Game Beaten - Name: MARK - Album: 183/226 - Time: 21:24
 * The Legend of Zelda - Link's Awakening DX // Slot 1 - Tunic: Red | Slot 2 - Tunic: Green | Slot 3 - Tunic: Blue | All - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 
@@ -127,6 +129,7 @@ Folder: home > roms > n64
 * Mario Tennis // Everything Unlocked
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
 * Paper Mario // Goomba Village - No Stars - Time: 00:12
+* Pokemon Stadium // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Super Mario 64 // 120 Stars
 * Super Smash Bros. // Everything Unlocked
@@ -197,7 +200,7 @@ Folder: home > roms > snes
 * Super Mario World 2 - Yoshi's Island // Game Completed - All but Extra have 100%
 * Super Mario - Yossy Island (Japan) // Game Completed - All but Extra have 100%
 * Super Punch-Out!! // Game Completed - 16-0 - Name: Lil' Mac
-* Super SpongeBob Kart // Everything Unlocked
+* Super SpongeBob Kart // 150 & Special Cup (100CC & 150CC) Unlocked
 * Star Fox 2 // All Pepper Medals Obtained - All Pilots have Star Ranks
 * The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Hearts: 13 - Rupees: 999
 
@@ -233,6 +236,7 @@ Folder: opt > n64
 * Mario Tennis // Everything Unlocked
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
 * Paper Mario // Goomba Village - No Stars - Time: 00:12
+* Pokemon Stadium // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Super Mario 64 // 120 Stars
 * Super Smash Bros. // Everything Unlocked
@@ -262,7 +266,7 @@ Folder: Pokémon (GB)
 * Base // All 3 Starters - Location: Viridian City Poke Center
 * Dojo // Location: Saffron City Fighting Dojo before Pokemon Choice - Rival Pokemon: Squirtle
 * Fossils // Location: Mt. Moon before Fossil Choice - Rival Pokemon: Squirtle
-* Grind // Cerulean Cave
+* Grind // Cerulean Cave - Team: Snorlax (80[?]), Dragonair (40) - Grinding to get Dragonair as close to Evolving into Dragonite for Transfer to Indigo Plateau (Boxes 1 and 3)
 * Indigo Plateau // Before the Elite Four
 * Mew // Location: Saffron City Poke Center - Rival Pokemon: Squirtle
 
