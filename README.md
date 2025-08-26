@@ -270,6 +270,7 @@ Folder: Pokémon (GB)
 * Indigo Plateau // Before the Elite Four
 * Mew // Location: Saffron City Poke Center - Rival Pokemon: Squirtle
 * Surf | Non-Surf // [Yellow] Pikachu having Surf vs. not having Surf
+* Pokémon Stadium // Pokémon Yellow Save - Pikachu has Surf - Level 100 except Pikachu
 
 
 
