@@ -81,7 +81,7 @@ Folder: home > roms > gb
 
 * Pokemon - Blue Version // Name: BLUE - Team: Venusaur (37), Charizard (41), Blastoise (36), Snorlax (87), Mewtwo (70), Mew (30) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 60:06
 * Pokemon - Red Version // Name: RED - Team: Venusaur (32), Charizard (36), Blastoise (36), Snorlax (100), Mewtwo (70), Mew (23) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 999999 - Time: 29:25
-* Pokemon - Yellow Version - Special Pikachu Edition // Name: YELLOW - Team: Pikachu (71), Venusaur (100), Charizard (100), Blastoise (100), Snorlax (100), Mewtwo (100) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:11
+* Pokemon - Yellow Version - Special Pikachu Edition // Name: YELLOW - Team: Pikachu (71), Snorlax (33), Mewtwo (70), Mew (20) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:12
 * Super Mario Land 2 - 6 Golden Coins // Slot 1 - 31 Courses Completed - Lives: 97 - Coins: 23
 * The Legend of Zelda - Link's Awakening // Slot 1 - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 * Wario Land - Super Mario Land 3 // Slot 1 - 39 Courses Completed - Hearts: 36 - Lives: 37 - Coins: 10543
@@ -104,7 +104,7 @@ Folder: home > roms > gba
 
 Folder: home > roms > gbc
 
-* Pokemon - Yellow Version // Name: YELLOW - Team: Pikachu (71), Venusaur (100), Charizard (100), Blastoise (100), Snorlax (100), Mewtwo (100) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:11
+* Pokemon - Yellow Version // Name: YELLOW - Team: Pikachu (71), Snorlax (33), Mewtwo (70), Mew (20) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:12
 * Pokemon Trading Card Game // Game Beaten - Name: MARK - Album: 183/226 - Time: 21:24
 * The Legend of Zelda - Link's Awakening DX // Slot 1 - Tunic: Red | Slot 2 - Tunic: Green | Slot 3 - Tunic: Blue | All - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 
@@ -269,6 +269,7 @@ Folder: Pokémon (GB)
 * Grind // Location: Cerulean Cave - To be used for grinding Pokémon up to and/or on to their next evolution
 * Indigo Plateau // Before the Elite Four
 * Mew // Location: Saffron City Poke Center - Rival Pokemon: Squirtle
+* Surf | Non-Surf // [Yellow] Pikachu having Surf vs. not having Surf
 
 
 
