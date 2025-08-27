@@ -1,12 +1,10 @@
 # RetroPie Game Saves
 
-Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I have either run through myself or another has run through. There are ten game systems that are presented here, one of which is not yet converted to RetroPie but is the complete save set for the game.
+Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I have either run through myself or another has run through. There are ten game systems that are presented here, for which majority of the saves are for the North American release but all for the NTSC region. The NTSC region was chosen because of the refresh rate of 60Hz and a frame rate of ~29.97FPS (frames per second) whereas the PAL region has a refresh rate of 50Hz and a frame rate of 25FPS.
 
 Please see what I have in store for you for your RetroPie game save needs.
 
 As to why the folders are the way they are, home has the .srm files (minus PSP) while opt has the PSP and non-LibRetro N64 Game Saves. The folders in the home > rom section between the Classic Edition, More, English, and Japanese is to align the saves with the right region, language, and set that the saves would be for. Once downloaded, the saves would be transferred to where the saves would be used with the right naming convention, whether the save be used for an updated version or downgraded version.
-
-As a heads up, Teleroboxer is for Virtual Boy and was run through Red Dragon.
 
 
 
@@ -36,7 +34,7 @@ For Pokémon, the following boxes are what I am using them as:
 
 Game Save Converter: https://savefileconverter.com/#/mister
 
-This website allows you to convert saves into their respective extentions.
+This website allows you to convert each of the saves here into their respective extensions to be transferred to their respective systems.
 
 
 
@@ -272,14 +270,3 @@ Folder: Pokémon (GB)
 * Mew // Location: Saffron City Poke Center - Rival Pokemon: Squirtle
 * Surf | Non-Surf // [Yellow] Pikachu having Surf vs. not having Surf
 * Pokémon Stadium // Pokémon Yellow Save - Pikachu has Surf - Level 100 except Pikachu
-
-
-
----
-
-
-
-Folder: Teleroboxer (RAM)
-* Fight 2-8 // Moved to the next fight
-* End // Name: Telero - Champsionship Run - All 8 Fights Unlocked/Randomized
-* TeleroBoxer.srm // Second Fight - RetroPie Save for Future Converter (ram -> srm)
