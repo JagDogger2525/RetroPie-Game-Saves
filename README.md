@@ -143,7 +143,7 @@ Folder: home > roms > n64
 Folder: home > roms > nes
 
 * Crystalis // Slot 1 - Name: Simea - Location: Leaf - Level: 2 - Armor: Ceramic Suit / Battle Shield - Money: 65535 | Slot 2 - Name: Simea - Location: Leaf - Level: 16 - Armor: Psycho Armor / Psycho Shield - Money: 65535
-* The Legend of Zelda // Slot 1: Dungeons Completed: 1,2,3,4 - Ring?: Blue - Keys: 6 - Bombs: 6 - Hearts: 12 - Money: 255
+* The Legend of Zelda // Slot 1 - Name: LINK - Dungeons Completed: 1-8 - Ring: Red - Keys: Megical - Bombs: 16 - Hearts: 16 - Money: 255 | Slot 2 - Name: Zelda - Second Quest Fresh Start
 
 
 
