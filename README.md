@@ -128,6 +128,7 @@ Folder: home > roms > n64
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
 * Paper Mario // Goomba Village - No Stars - Time: 00:12
 * Pokemon Stadium // Everything Unlocked
+* Pokemon Stadium 2 // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Super Mario 64 // 120 Stars
 * Super Smash Bros. // Everything Unlocked
@@ -236,6 +237,7 @@ Folder: opt > n64
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
 * Paper Mario // Goomba Village - No Stars - Time: 00:12
 * Pokemon Stadium // Everything Unlocked
+* Pokemon Stadium 2 // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Super Mario 64 // 120 Stars
 * Super Smash Bros. // Everything Unlocked
