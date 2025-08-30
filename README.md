@@ -144,7 +144,7 @@ Folder: home > roms > n64
 Folder: home > roms > nes
 
 * Crystalis // Slot 1 - Name: Simea - Location: Leaf - Level: 2 - Armor: Ceramic Suit / Battle Shield - Money: 65535 | Slot 2 - Name: Simea - Location: Leaf - Level: 16 - Armor: Psycho Armor / Psycho Shield - Money: 65535
-* The Legend of Zelda // Slot 1 - Quest: First - Name: LINK - Dungeons Completed: 1-8 - Ring: Red - Keys: Megical - Bombs: 16 - Hearts: 16 - Money: 255 | Slot 2 - Quest: Second - Name: LINK - Dungeons Completed: 1-4 - Ring: Blue - Keys: 2 - Bombs: 7 - Hearts: 10 - Money: 25
+* The Legend of Zelda // Slot 1 - Quest: First - Name: LINK - Dungeons Completed: 1-8 - Ring: Red - Keys: Magical - Bombs: 16 - Hearts: 16 - Money: 255 | Slot 2 - Quest: Second - Name: LINK - Dungeons Completed: 1-8 - Ring: Red - Keys: Magical - Bombs: 7 - Hearts: 16 - Money: 255
 
 
 
@@ -165,6 +165,7 @@ Folder: home > roms > psx
 * LEGO Racers // Everything Unlocked - Custom Racer: Veronica
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Thrill Kill // Everything Unlocked
+* Twisted Metal 4 // Everything Unlocked (Load Game > Meter Maid)
 * Twisted Metal - Small Brawl // Everything Unlocked
 * Vigilante 8 - 2nd Offense // Everything Unlocked
 * Vigilante 8 // Everything Unlocked
