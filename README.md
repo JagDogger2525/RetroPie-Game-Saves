@@ -92,7 +92,7 @@ Folder: home > roms > gb
 
 Folder: home > roms > gba
 
-* Castlevania - Circle of the Moon // Slot 1 - Name: Konami - 78.0% Beaten - Location: Chapel Tower - Level: 34 - Time: 6:12:46
+* Castlevania - Circle of the Moon // All Modes Unlocked
 
 
 
