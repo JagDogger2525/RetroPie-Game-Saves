@@ -126,7 +126,7 @@ Folder: home > roms > n64
 * Mario Party 1-3 // Boards Unlocked
 * Mario Tennis // Everything Unlocked
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
-* Paper Mario // Slot 1 - Level: 13 - Location: Toad Town Docks - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:30 | Slot 2 - Level: 13 - Location: Toad Town Docks - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:30
+* Paper Mario // Slot 1 - Level: 13 - Location: Toad Town Docks - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:54 | Slot 2 - Level: 13 - Location: Toad Town Docks - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:54
 * Pokemon Stadium // Everything Unlocked
 * Pokemon Stadium 2 // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
@@ -236,7 +236,7 @@ Folder: opt > n64
 * Mario Party 1-3 // Boards Unlocked
 * Mario Tennis // Everything Unlocked
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
-* Paper Mario // Slot 1 - Level: 13 - Location: Toad Town Docks - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:30 | Slot 2 - Level: 13 - Location: Toad Town Docks - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:30
+* Paper Mario // Slot 1 - Level: 13 - Location: Toad Town Docks - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:54 | Slot 2 - Level: 13 - Location: Toad Town Docks - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:54
 * Pokemon Stadium // Everything Unlocked
 * Pokemon Stadium 2 // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
