@@ -266,7 +266,7 @@ Folder: Paper Mario (N64)
 
 
 * Chapters 1-4 // Slot 1 - Chapter: 1 - Level: 2 - Location: Toad Town - Money: 2 - Time: 1:10 | Slot 2 - Chapter: 2 - Level: 5 - Location: Toad Town - Money: 999 - Time: 3:23 | Slot 3 - Chapter: 3 - Level: 7 - Location: Toad Town - Money: 999 - Time: 5:27 | Slot 4 - Chapter: 4 - Level: 11 - Location: Toad Town - Money: 999 - Time: 8:27
-* Chapters 5-8 // Slot 1 - Chapter: 5 - Level: 13 - Location: Toad Town - Money: 999 - Time: 11:54 | Slot 2 - Chapter: 6 - Level: 16 - Location: Toad Town - Money: 999 - Time: 16:08 | Slot 3 - Chapter: 7 - Level: 19 - Location: Toad Town - Money: 999 - Time: 18:31 | Slot 4 - Chapter: 7 - Level: 22 - Location: Star Haven - Money: 999 - Time: 21:03
+* Chapters 5-8 // Slot 1 - Chapter: 5 - Level: 13 - Location: Toad Town - Money: 999 - Time: 11:54 | Slot 2 - Chapter: 6 - Level: 16 - Location: Toad Town - Money: 999 - Time: 16:08 | Slot 3 - Chapter: 7 - Level: 19 - Location: Toad Town - Money: 999 - Time: 18:31 | Slot 4 - Chapter: 8 - Level: 22 - Location: Star Haven - Money: 999 - Time: 21:03
 
 
 
