@@ -126,7 +126,7 @@ Folder: home > roms > n64
 * Mario Party 1-3 // Boards Unlocked
 * Mario Tennis // Everything Unlocked
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
-* Paper Mario // Slot 1 - Level: 13 - Location: Toad Town - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:54 | Slot 2 - Level: 16 - Location: Toad Town - Stars: 5 - Chapter: 6 - Money: 999 - Time: 16:08 | Slot 3 - Level: 18 - Location: Flower Fields - Stars: 5 - Chapter: 6 - Money: 999 - Time: 17:25
+* Paper Mario // Slot 1 - Chapter: 5 - Level: 13 - Location: Toad Town - Money: 999 - Time: 11:54 | Slot 2 - Chapter: 6 - Level: 16 - Location: Toad Town - Money: 999 - Time: 16:08 | Slot 3 - Chapter: 7 - Level: 19 - Location: Toad Town - Money: 999 - Time: 18:31 | Slot 4 - Chapter: 7 - Level: 19 - Location: Toad Town - Money: 999 - Time: 18:31
 * Pokemon Stadium // Everything Unlocked
 * Pokemon Stadium 2 // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
@@ -236,7 +236,7 @@ Folder: opt > n64
 * Mario Party 1-3 // Boards Unlocked
 * Mario Tennis // Everything Unlocked
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
-* Paper Mario // Slot 1 - Level: 13 - Location: Toad Town - Stars: 4 - Chapter: 5 - Money: 999 - Time: 11:54 | Slot 2 - Level: 16 - Location: Toad Town - Stars: 5 - Chapter: 6 - Money: 999 - Time: 16:08 | Slot 3 - Level: 18 - Location: Flower Fields - Stars: 5 - Chapter: 6 - Money: 999 - Time: 17:25
+* Paper Mario // Slot 1 - Chapter: 5 - Level: 13 - Location: Toad Town - Money: 999 - Time: 11:54 | Slot 2 - Chapter: 6 - Level: 16 - Location: Toad Town - Money: 999 - Time: 16:08 | Slot 3 - Chapter: 7 - Level: 19 - Location: Toad Town - Money: 999 - Time: 18:31 | Slot 4 - Chapter: 7 - Level: 19 - Location: Toad Town - Money: 999 - Time: 18:31
 * Pokemon Stadium // Everything Unlocked
 * Pokemon Stadium 2 // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
@@ -265,7 +265,7 @@ Folder: opt > psp
 Folder: Paper Mario (N64)
 
 
-* Chapters 1-4 // Slot 1 - Level: 2 - Location: Toad Town - Stars: 0 - Chapter: 1 - Money: 2 - Time: 1:10 | Slot 2 - Level: 5 - Location: Toad Town - Stars: 1 - Chapter: 2 - Money: 999 - Time: 3:23 | Slot 3 - Level: 7 - Location: Toad Town - Stars: 2 - Chapter: 3 - Money: 999 - Time: 5:27 | Slot 4 - Level: 11 - Location: Toad Town - Stars: 3 - Chapter: 4 - Money: 999 - Time: 8:27
+* Chapters 1-4 // Slot 1 - Chapter: 1 - Level: 2 - Location: Toad Town - Money: 2 - Time: 1:10 | Slot 2 - Chapter: 2 - Level: 5 - Location: Toad Town - Money: 999 - Time: 3:23 | Slot 3 - Chapter: 3 - Level: 7 - Location: Toad Town - Money: 999 - Time: 5:27 | Slot 4 - Chapter: 4 - Level: 11 - Location: Toad Town - Money: 999 - Time: 8:27
 
 
 
