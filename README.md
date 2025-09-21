@@ -189,7 +189,7 @@ Folder: home > roms > snes
 * Earthbound // Slot 1: Second Visit to Onett for Meteorite Piece - Location: Ness' House - Levels: 58-82 - Money: $184587
 * Final Fantasy II // Team: Cecil, Kain, Cid, Rosa, Yang - Location: Outside Baron - Levels: 21-23 - GP: 48417 - Time: 5:00
 * Final Fantasy III // Team: Edgar, Sabin, Terra, Cyan - Location: Before World Split - Levels: 21-25 - GP: 2095 - Steps: 24433 - Time: 11:23
-* Hyper Street Kart // 150 & Special Cup (100CC & 150CC) Unlocked
+* Hyper Street Kart // Everything Unlocked
 * Kirby Super Star // 100% - Everything Unlocked
 * Super Mario All-Stars // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
 * Super Mario All-Stars + Super Mario World // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMW: 95 Exits Cleared - Location: Valley Fortress before Back Door
@@ -203,7 +203,7 @@ Folder: home > roms > snes
 * Super Mario World 2 - Yoshi's Island // Game Completed - All but Extra have 100%
 * Super Mario - Yossy Island (Japan) // Game Completed - All but Extra have 100%
 * Super Punch-Out!! // Game Completed - 16-0 - Name: Lil' Mac
-* Super SpongeBob Kart // 150 & Special Cup (100CC & 150CC) Unlocked
+* Super SpongeBob Kart // Everything Unlocked
 * Star Fox 2 // All Pepper Medals Obtained - All Pilots have Star Ranks
 * The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Hearts: 13 - Rupees: 999
 
