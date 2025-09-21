@@ -126,7 +126,7 @@ Folder: home > roms > n64
 * Mario Party 1-3 // Boards Unlocked
 * Mario Tennis // Everything Unlocked
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
-* Paper Mario // Slot 1 - In Progress for Final Badge | Slot 2 - Chapter: 8 - Level: 22 - Location: Star Haven - Money: 999 - Time: 21:03
+* Paper Mario // Slot 1 - Chapter: 8 - Level: 27 - Location: Peach's Castle - Badges: 80 - Money: 999 - Time: 23:17 | Slot 2 - Chapter: 8 - Level: 22 - Location: Star Haven - Badges: 78 - Money: 999 - Time: 21:03
 * Perfect Dark // Name: Shadow - Everything Unlocked
 * Pokemon Stadium // Everything Unlocked
 * Pokemon Stadium 2 // Everything Unlocked
@@ -238,7 +238,7 @@ Folder: opt > n64
 * Mario Party 1-3 // Boards Unlocked
 * Mario Tennis // Everything Unlocked
 * Nintendo All-Star! Dairantou Smash Brothers // Everything Unlocked
-* Paper Mario // Slot 1 - In Progress for Final Badge | Slot 2 - Chapter: 8 - Level: 22 - Location: Star Haven - Money: 999 - Time: 21:03
+* Paper Mario // Slot 1 - Chapter: 8 - Level: 27 - Location: Peach's Castle - Badges: 80 - Money: 999 - Time: 23:17 | Slot 2 - Chapter: 8 - Level: 22 - Location: Star Haven - Badges: 78 - Money: 999 - Time: 21:03
 * Perfect Dark // Name: Shadow - Everything Unlocked
 * Pokemon Stadium // Everything Unlocked
 * Pokemon Stadium 2 // Everything Unlocked
