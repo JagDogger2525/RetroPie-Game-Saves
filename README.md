@@ -213,7 +213,7 @@ Folder: home > roms > snes
 
 
 
-Folder: home > roms > vb
+Folder: home > roms > virtualboy
 
 * TeleroBoxer.srm // Second Fight
 * Virtual Boy Wario Land // Slot 1 - Level: 14 - All Treasures Found - Coins: 99999 - Lives: 26 - Hearts: 95 - Time: 1:19:19
