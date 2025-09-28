@@ -195,6 +195,7 @@ Folder: home > roms > snes
 * Super Mario All-Stars + Super Mario World // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMW: 95 Exits Cleared - Location: Valley Fortress before Back Door
 * Super Mario Collection (Japan) // SMB1: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P) | SMB3: Slot 1 - World 8 (1P) / Slot 2 - World 8 (2P)
 * Super Mario Kart // Everything Unlocked
+* Super Mario Kart - Epic Racers // Everything Unlocked
 * Super Mario Kart - Horizons // Everything Unlocked
 * Super Mario RPG - Legend of the Seven Stars // Location: Factory - Stars: 6 - Levels: 30
 * Super Mario World // 95 Exits Cleared - Location: Valley Fortress before Back Door
