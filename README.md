@@ -187,7 +187,7 @@ Folder: home > roms > snes
 * Donkey Kong Country 2 - Diddy's Kong Quest // Slot 1 - 102%
 * Donkey Kong Country 3 - Dixie Kong's Double Trouble // Slot 1 - 103%
 * Earthbound // Slot 1: Before Phase Distorter - Location: Saturn Valley - Levels: 59-82 - Money: $197693
-* Equestriabound // Slot 1: Before Phase Distorter - Location: Saturn Valley - Levels: 61-72 - Money: B$127541
+* Equestriabound // Slot 1: Before Phase Distorter - Location: Saturn Valley - Levels: 61-72 - Money: B$145009
 * Final Fantasy II // Team: Cecil, Kain, Cid, Rosa, Yang - Location: Outside Baron - Levels: 21-23 - GP: 48417 - Time: 5:00
 * Final Fantasy III // Team: Edgar, Sabin, Terra, Cyan - Location: Before World Split - Levels: 21-25 - GP: 2095 - Steps: 24433 - Time: 11:23
 * Hyper Street Kart // Everything Unlocked
