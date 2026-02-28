@@ -132,7 +132,7 @@ Folder: home > roms > gc
 * Pokémon XD: Gale of Darkness [01-GXXE-PokemonXD.gci] // Name: MICHAEL - Shadow Pokémon: 83 - Purified Pokémon: 83
 * Pool Paradise [7U-GPRE-Pool Paradise.gci] // Everything Unlocked
 * Soulcalibur 2 [AF-GRSE-sc2_0.dat.gci] // Everything Unlocked
-* Super Mario Sunshine [01-GMSE-super_mario_sunshine.gci] // 120 Shines
+* Super Mario Sunshine [01-GMSE-super_mario_sunshine.gci] // Slot 1: 120 Shines
 * Super Smash Bros. Melee [01-GALE-SuperSmashBros.gci] // Everything Unlocked
 * The Simpsons: Hit & Run [7D-GHQE-Save1.gci] // Everything Unlocked
 * The Simpsons: Road Rage [69-GSPE-SIMPSON.SAV.gci] // Everything Unlocked - Name: RAZOR
@@ -162,7 +162,7 @@ Folder: home > roms > n64
 * Pokemon Stadium // Everything Unlocked
 * Pokemon Stadium 2 // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
-* Super Mario 64 // 120 Stars
+* Super Mario 64 // Slot 1: 120 Stars
 * Super Smash Bros. // Everything Unlocked
 * The Legend of Zelda: Majora's Mask // Game Completed
 * The Legend of Zelda: Ocarina of Time // Game Completed
@@ -276,7 +276,7 @@ Folder: opt > n64
 * Pokemon Stadium // Everything Unlocked
 * Pokemon Stadium 2 // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
-* Super Mario 64 // 120 Stars
+* Super Mario 64 // Slot 1: 120 Stars
 * Super Smash Bros. // Everything Unlocked
 * The Legend of Zelda: Majora's Mask // Game Completed
 * The Legend of Zelda: Ocarina of Time // Game Completed
