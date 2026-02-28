@@ -117,12 +117,17 @@ Folder: home > roms > gc
 * Dance Dance Revolution: Mario Mix [01-GWZE-DDRwithMARIO.gci] // Everything Unlocked
 * Legends of Wrestling [51-GLWE-Game Options.gci] // Everything Unlocked
 * Legends of Wrestling 2 [51-GL2E-LOW2OGame Options.gci] // Everything Unlocked
+* Luigi's Mansion [01-GLME-luigis_mansion.gci] // Slot 1: Ghosts: 50/50 - Money: 86,200,000G
 * Mario Kart: Double Dash!! [01-GM4E-MarioKart Double Dash!!.gci] // Everything Unlocked - Name: JON
 * Mario Party 4 [01-GMPE-MARIPA4BOX0.gci] // Everything Unlocked
 * Mario Party 5 [01-GP5E-MARIPA5.gci] // Everything Unlocked - Name: Bran
 * Mario Party 6 [01-GP6E-MARIPA6.gci] // Everything Unlocked - Name: Bran
 * Mario Party 7 [01-GP7E-MARIPA7.gci] // Everything Unlocked - Name: Bran
 * Mario Superstar Baseball [01-GYQE-MarioBaseball.gci] // Everything Unlocked
+* Metroid Prime [01-GM8E-MetroidPrime A.gci] // Slot 2: 101% - Hard Mode - Location: Tallon Overworld - Time: 17:09 | Slot 3: 98% - Normal Mode - Location: Tallon Overworld - Time: 27:53
+* Metroid Prime 2 [01-G2ME-MetroidPrime2.gci] // Slot 1: 100% - Hard Mode - Location: Sky Temple - Time: 15:35
+* Pikmin [01-GPIE-Pikmin dataFile.gci] // Slot 1: Day 24 - Ships : 29/30 - Red: 137 - Yellow: 144 - Blue: 152
+* Pikmin 2 [01-GPVE-Pikmin2_SaveData.gci] // Slot 1: Day 80 - Treasure: 201/201 - Funds: 28241 - Time: 45:10
 * Pokémon Colosseum [01-GC6E-pokemon_colosseum.gci] // Name: WES - Snagged Pokémon: 48 - Purified Pokémon 48 - Play Time: 11:00
 * Pokémon XD: Gale of Darkness [01-GXXE-PokemonXD.gci] // Name: MICHAEL - Shadow Pokémon: 83 - Purified Pokémon: 83
 * Pool Paradise [7U-GPRE-Pool Paradise.gci] // Everything Unlocked
