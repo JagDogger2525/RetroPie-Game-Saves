@@ -111,6 +111,32 @@ Folder: home > roms > gbc
 ---
 
 
+Folder: home > roms > gc
+
+* 18 Wheeler: American Pro Trucker [51-GWEE-18 Wheeler.gci] // Everything Unlocked
+* Dance Dance Revolution: Mario Mix [01-GWZE-DDRwithMARIO.gci] // Everything Unlocked
+* Legends of Wrestling [51-GLWE-Game Options.gci] // Everything Unlocked
+* Legends of Wrestling 2 [51-GL2E-LOW2OGame Options.gci] // Everything Unlocked
+* Mario Kart: Double Dash!! [01-GM4E-MarioKart Double Dash!!.gci] // Everything Unlocked - Name: JON
+* Mario Party 4 [01-GMPE-MARIPA4BOX0.gci] // Everything Unlocked
+* Mario Party 5 [01-GP5E-MARIPA5.gci] // Everything Unlocked - Name: Bran
+* Mario Party 6 [01-GP6E-MARIPA6.gci] // Everything Unlocked - Name: Bran
+* Mario Party 7 [01-GP7E-MARIPA7.gci] // Everything Unlocked - Name: Bran
+* Mario Superstar Baseball [01-GYQE-MarioBaseball.gci] // Everything Unlocked
+* Pokémon Colosseum [01-GC6E-pokemon_colosseum.gci] // Name: WES - Snagged Pokémon: 48 - Purified Pokémon 48 - Play Time: 11:00
+* Pokémon XD: Gale of Darkness [01-GXXE-PokemonXD.gci] // Name: MICHAEL - Shadow Pokémon: 83 - Purified Pokémon: 83
+* Pool Paradise [7U-GPRE-Pool Paradise.gci] // Everything Unlocked
+* Soulcalibur 2 [AF-GRSE-sc2_0.dat.gci] // Everything Unlocked
+* Super Mario Sunshine [01-GMSE-super_mario_sunshine.gci] // 120 Shines
+* Super Smash Bros. Melee [01-GALE-SuperSmashBros.gci] // Everything Unlocked
+* The Simpsons: Hit & Run [7D-GHQE-Save1.gci] // Everything Unlocked
+* The Simpsons: Road Rage [69-GSPE-SIMPSON.SAV.gci] // Everything Unlocked - Name: RAZOR
+
+
+
+---
+
+
 
 Folder: home > roms > n64
 
