@@ -1,6 +1,6 @@
 # RetroPie Game Saves
 
-Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I have either run through myself or another has run through. There are ten game systems that are presented here, for which majority of the saves are for the North American release but all for the NTSC region. The NTSC region was chosen because of the refresh rate of 60Hz and a frame rate of ~29.97FPS (frames per second) whereas the PAL region has a refresh rate of 50Hz and a frame rate of 25FPS.
+Welcome to my GitHub RetroPie Game Saves. Here is a culmination of game saves I have either run through myself or another has run through. There are several game systems that are presented here, for which all are from the NTSC region. The NTSC region was chosen because of the refresh rate of 60Hz and a frame rate of ~29.97FPS (frames per second) whereas the PAL region has a refresh rate of 50Hz and a frame rate of 25FPS.
 
 Please see what I have in store for you for your RetroPie game save needs.
 
