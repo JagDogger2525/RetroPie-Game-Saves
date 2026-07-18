@@ -34,10 +34,9 @@ For Pokémon Red / Blue / Yellow, the following boxes are what I am using them a
 
 Pokémon Gold / Silver / Crystal Notes:
 
-How to Change Time:
-Gold/Silver: On the title screen with Ho-oh/Lugia, press DOWN + SELECT + B all at the same time.
+* How to Change Time (Gold/Silver): On the title screen with Ho-oh/Lugia, press DOWN + SELECT + B all at the same time.
 
-Crystal: On the title screen with Suicune, hold down DOWN + SELECT + B together, release DOWN and B but keep holding SELECT, hold LEFT + UP, then let go of SELECT.
+* How to Change Time (Crystal): On the title screen with Suicune, hold down DOWN + SELECT + B together, release DOWN and B but keep holding SELECT, hold LEFT + UP, then let go of SELECT.
 
 
 G/S/C Time Passcode Creators:
