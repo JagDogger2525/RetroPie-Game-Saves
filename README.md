@@ -12,7 +12,7 @@ As to why the folders are the way they are, home has majority of the files while
 
 
 
-For Pokémon, the following boxes are what I am using them as:
+For Pokémon Red / Blue / Yellow, the following boxes are what I am using them as:
 - Box 1: Final Evolution #1
 - Box 2: Final Evolution #2
 - Box 3: Final Evolution #3
@@ -25,6 +25,24 @@ For Pokémon, the following boxes are what I am using them as:
 - Box 10: First/Mid Evolution #1
 - Box 11: First/Mid Evolution #2
 - Box 12: Empty
+
+
+
+---
+
+
+
+Pokémon Gold / Silver / Crystal Notes:
+
+How to Change Time:
+Gold/Silver: On the title screen with Ho-oh/Lugia, press DOWN + SELECT + B all at the same time.
+
+Crystal: On the title screen with Suicune, hold down DOWN + SELECT + B together, release DOWN and B but keep holding SELECT, hold LEFT + UP, then let go of SELECT.
+
+
+G/S/C Time Passcode Creators:
+https://bluemoonfalls.com/pages/tools/time-passcode-generator
+https://legendarypkmn.net/pass/
 
 
 
@@ -103,6 +121,9 @@ Folder: home > roms > gba
 Folder: home > roms > gbc
 
 * Pokemon - Yellow Version // Name: YELLOW - Team: Pikachu (71), Snorlax (33), Mewtwo (70), Mew (20) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:12
+* Pokémon Crystal // All 3 Starting Pokémon // Name: CHRIS // Trainer ID: 33791 // Money: 1800 // Time: 0:39 // Rival: Silver // Rival Pokémon: Totodile // Location: Cherrygrove City // Time Passcode: 01093
+* Pokémon Gold // All 3 Starting Pokémon // Name: GOLD // Trainer ID: 58780 // Money: 3300 // Time: 0:29 // Rival: Silver // Rival Pokémon: Totodile // Location: Cherrygrove City // Time Passcode: 01171
+* Pokémon Silver // All 3 Starting Pokémon // Name: SILVER // Trainer ID: 06778 // Money: 3300 // Time: 0:30 // Rival: Gold // Rival Pokémon: Totodile // Location: Cherrygrove City // Time Passcode: 01090
 * Pokemon Trading Card Game // Game Beaten - Name: MARK - Album: 183/226 - Time: 21:24
 * The Legend of Zelda - Link's Awakening DX // Slot 1 - Tunic: Red | Slot 2 - Tunic: Green | Slot 3 - Tunic: Blue | All - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 
