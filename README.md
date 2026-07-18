@@ -122,9 +122,9 @@ Folder: home > roms > gba
 Folder: home > roms > gbc
 
 * Pokemon - Yellow Version // Name: YELLOW - Team: Pikachu (71), Snorlax (33), Mewtwo (70), Mew (20) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:12
-* Pokémon Crystal // All 3 Starting Pokémon // Name: CHRIS // Trainer ID: 33791 // Money: 1800 // Time: 0:39 // Rival: Silver // Rival Pokémon: Totodile // Location: Cherrygrove City // Time Passcode: 01093
-* Pokémon Gold // All 3 Starting Pokémon // Name: GOLD // Trainer ID: 58780 // Money: 3300 // Time: 0:29 // Rival: Silver // Rival Pokémon: Totodile // Location: Cherrygrove City // Time Passcode: 01171
-* Pokémon Silver // All 3 Starting Pokémon // Name: SILVER // Trainer ID: 06778 // Money: 3300 // Time: 0:30 // Rival: Gold // Rival Pokémon: Totodile // Location: Cherrygrove City // Time Passcode: 01090
+* Pokemon Crystal // All 3 Starting Pokémon // Name: CHRIS // Trainer ID: 33791 // Money: 1800 // Time: 0:39 // Rival: Silver // Rival Pokémon: Totodile // Location: Cherrygrove City // Time Passcode: 01093
+* Pokemon Gold // All 3 Starting Pokémon // Name: GOLD // Trainer ID: 58780 // Money: 3300 // Time: 0:29 // Rival: Silver // Rival Pokémon: Totodile // Location: Cherrygrove City // Time Passcode: 01171
+* Pokemon Silver // All 3 Starting Pokémon // Name: SILVER // Trainer ID: 06778 // Money: 3300 // Time: 0:30 // Rival: Gold // Rival Pokémon: Totodile // Location: Cherrygrove City // Time Passcode: 01090
 * Pokemon Trading Card Game // Game Beaten - Name: MARK - Album: 183/226 - Time: 21:24
 * The Legend of Zelda - Link's Awakening DX // Slot 1 - Tunic: Red | Slot 2 - Tunic: Green | Slot 3 - Tunic: Blue | All - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 
