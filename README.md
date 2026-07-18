@@ -40,7 +40,9 @@ Pokémon Gold / Silver / Crystal Notes:
 
 
 G/S/C Time Passcode Creators:
+
 https://bluemoonfalls.com/pages/tools/time-passcode-generator
+
 https://legendarypkmn.net/pass/
 
 
