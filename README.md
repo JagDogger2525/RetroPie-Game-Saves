@@ -184,6 +184,7 @@ Folder: home > roms > n64
 * Pokemon Stadium // Everything Unlocked
 * Pokemon Stadium 2 // Everything Unlocked
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
+* Super Luigi 64 // Slot 1: 120 Stars
 * Super Mario 64 // Slot 1: 120 Stars
 * Super Smash Bros. // Everything Unlocked
 * The Legend of Zelda: Majora's Mask // Game Completed
