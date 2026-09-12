@@ -199,7 +199,6 @@ Folder: home > roms > n64
 
 Folder: home > roms > nes
 
-* Crystalis (SNK 40th Anniversary Collection) // Slot 1 - Name: Simea - Location: Leaf - Level: 1 - Armor: Ceramic Suit / Battle Shield - Money: 65535 | Slot 2 - Name: Simea - Location: Leaf - Level: 16 - Armor: Psycho Armor / Psycho Shield - Money: 65535
 * Crystalis // Slot 1 - Name: Simea - Location: Leaf - Level: 1 - Armor: Ceramic Suit / Battle Shield - Money: 65535 | Slot 2 - Name: Simea - Location: Leaf - Level: 16 - Armor: Psycho Armor / Psycho Shield - Money: 65535
 * The Legend of Zelda // Slot 1 - Quest: First - Name: LINK - Dungeons Completed: 1-8 - Ring: Red - Keys: Magical - Bombs: 16 - Hearts: 16 - Money: 255 | Slot 2 - Quest: Second - Name: LINK - Dungeons Completed: 1-8 - Ring: Red - Keys: Magical - Bombs: 16 - Hearts: 16 - Money: 255
 
