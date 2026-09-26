@@ -220,6 +220,10 @@ Folder: home > roms > psx
 * Final Fantasy VIII // Slot 1 - Team: Quistis, Squall - Location: Alcauld Plains - Levels: 7-8 - GF: Quezacotal, Shiva - Gil: 5000 - Time: 0:19
 * LEGO Racers // Everything Unlocked - Custom Racer: Veronica
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
+* Tail Concerto.srm // Slot 1: Bonus | Time: 03:29 | Everything Unlocked
+* Tail Concerto A.srm // Slot 1: Bonus | Time: 03:29 | Everything Unlocked // Slot 2: PORTO1 | Time: 03:09 | All Photos Found // Slot 3: IRONGIANT2 | Time: 03:21 | Last Save Before Completion
+* Tail Concerto B.srm // Slot 1: PORTO1 | Time: 03:08 | All Photos Found // Slot 2: IRONGIANT2 | Time: 03:21 | Last Save Before Completion // Slot 3: Bonus | Time: 03:29 | Everything Unlocked
+* Tail Concerto C.srm // Slot 1: Bonus | Time: 00:00 | Everything Unlocked
 * Thrill Kill // Everything Unlocked
 * Twisted Metal 4 // Everything Unlocked (Load Game > Meter Maid)
 * Twisted Metal - Small Brawl // Everything Unlocked
