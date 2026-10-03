@@ -112,6 +112,10 @@ Folder: home > roms > gb
 Folder: home > roms > gba
 
 * Castlevania - Circle of the Moon // All Modes Unlocked
+* Super Mario Advance 2 - Super Mario World.srm // Score: 3290970 | File A: EXTRA-World 7 - All Goals Reached - All Dragon Coins Collected - Lives: 999 - Stars: 99 - Coins: 99 - Time: 01:55:08
+* Super Mario Advance 2 - Super Mario World.state /{Pi 5}/ Shows Dragon Coin Collection Screen then Goal Reached Screen
+* Super Mario Advance 2 - Super Mario World.state1 /{Pi 5}/ After Screens and Saved
+* Super Mario Advance 2 - Super Mario World.state2 /{Pi 5}/ Before Screens and Saved
 
 
 
