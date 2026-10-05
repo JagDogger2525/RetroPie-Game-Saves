@@ -112,7 +112,7 @@ Folder: home > roms > gb
 Folder: home > roms > gba
 
 * Castlevania - Circle of the Moon // All Modes Unlocked
-* Super Mario Advance 2 - Super Mario World.srm // Score: 3290970 | File A: EXTRA-World 7 - All Goals Reached - All Dragon Coins Collected - Lives: 999 - Stars: 99 - Coins: 99 - Time: 01:55:08
+* Super Mario Advance 2 - Super Mario World.srm // Score: 3298370 | File A: EXTRA-World 7 - All Goals Reached - All Dragon Coins Collected - Location: Back Door - Lives: 999 - Stars: 99 - Coins: 99 - Time: 01:56:37
 * Super Mario Advance 2 - Super Mario World.state /{Pi 5}/ Shows Dragon Coin Collection Screen then Goal Reached Screen
 * Super Mario Advance 2 - Super Mario World.state1 /{Pi 5}/ After Screens and Saved
 * Super Mario Advance 2 - Super Mario World.state2 /{Pi 5}/ Before Screens and Saved
@@ -191,7 +191,7 @@ Folder: home > roms > n64
 * Super Luigi 64 // Slot 1: 120 Stars
 * Super Mario 64 // Slot 1: 120 Stars
 * Super Smash Bros. // Everything Unlocked
-* The Legend of Zelda: Majora's Mask // Game Completed
+* The Legend of Zelda: Majora's Mask // Game Completed | Secret Code: 51342
 * The Legend of Zelda: Ocarina of Time // Game Completed
 * Yoshi's Story // Everything Unlocked
 
@@ -309,7 +309,7 @@ Folder: opt > n64
 * Ready 2 Rumble Boxing // Champ Closer - Champ Gym with Damien Black at 100% with 2 Fights Left for Credits
 * Super Mario 64 // Slot 1: 120 Stars
 * Super Smash Bros. // Everything Unlocked
-* The Legend of Zelda: Majora's Mask // Game Completed
+* The Legend of Zelda: Majora's Mask // Game Completed | Secret Code: 51342
 * The Legend of Zelda: Ocarina of Time // Game Completed
 * Yoshi's Story // Everything Unlocked
 
