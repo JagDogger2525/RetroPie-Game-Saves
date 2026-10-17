@@ -273,6 +273,7 @@ Folder: home > roms > snes
 * Super SpongeBob Kart // Everything Unlocked
 * Star Fox 2 // All Pepper Medals Obtained - All Pilots have Star Ranks
 * The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Hearts: 13 - Rupees: 999
+* The Legend of Zelda - A Link to the Past Master Quest // Location: Dark World - All Items - Hearts: 13 - Rupees: 999 - Bombs: 50 - Arrows: 70
 
 
 
