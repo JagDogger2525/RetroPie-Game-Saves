@@ -272,8 +272,8 @@ Folder: home > roms > snes
 * Super Punch-Out!! Special Edition // Game Completed - 32-0 - Name: Lil' Mac
 * Super SpongeBob Kart // Everything Unlocked
 * Star Fox 2 // All Pepper Medals Obtained - All Pilots have Star Ranks
-* The Legend of Zelda - A Link to the Past // Location: Dark World - All Items - Hearts: 13 - Rupees: 999
-* The Legend of Zelda - A Link to the Past Master Quest // Location: Dark World - All Items - Hearts: 13 - Rupees: 999 - Bombs: 50 - Arrows: 70
+* The Legend of Zelda - A Link to the Past // Slot 1: Location: Dark World - All Items - Sword: Tempered (Lvl 3) - Shield: Mirror - Tunic: Blue - Hearts: 13 - Bombs: 50 - Arrows: 70 - Rupees: 999
+* The Legend of Zelda - A Link to the Past Master Quest // Slot 1: Location: Dark World - All Items - Sword: Tempered (Lvl 3) - Shield: Mirror - Tunic: Blue - Hearts: 13 - Bombs: 50 - Arrows: 70 - Rupees: 999
 
 
 
