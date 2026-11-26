@@ -206,7 +206,7 @@ Folder: home > roms > n64
 
 Folder: home > roms > nds
 
-* Kirby Super Star Ultra // Slot 1: 100% & True Status - Everything Unlocked
+* Kirby Super Star Ultra // Slot 1: 100% - Everything Unlocked
 * Super Mario 64 DS // Slot 1: 150 Stars - All Minigames Unlocked
 
 
