@@ -129,7 +129,7 @@ Folder: home > roms > gbc
 
 * Pokemon - Yellow Version // Name: YELLOW - Team: Pikachu (71), Snorlax (33), Mewtwo (70), Mew (20) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:12
 * Pokemon Crystal [Boy] //  Name: CHRIS - Team: Feraligatr (34), Meganium (34), Typhlosion (37), Pidgey (3) - Trainer ID: 24080 - Money: 0 - Time: 0:53 - Rival: SILVER - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 00802 - Daylight Savings Time
-* Pokemon Crystal [Girl] // Name: KRIS - Team: Meganium (32), Feraligatr (33), Typhlosion (37), Pidgey (3) - Trainer ID: 00363 - Money: 0 - Time: 0:53 - Rival: SILVER - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 00673 - Daylight Savings Time
+* Pokemon Crystal [Girl] // Name: KRIS - Team: Meganium (32), Feraligatr (33), Typhlosion (37), Pidgey (3) - Trainer ID: 00363 - Money: 0 - Time: 0:55 - Rival: SILVER - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 00673 - Daylight Savings Time
 * Pokemon Gold // Name: GOLD - Team: Meganium (35), Feraligatr (37), Typhlosion (31), Pidgey (3) - Trainer ID: 22865 - Money: 0 - Time: 1:57 - Rival: SILVER - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 00716 - Daylight Savings Time
 * Pokemon Silver // Name: SILVER - Team: Meganium (37), Feraligatr (37), Typhlosion (36), Pidgey (4) - Trainer ID: 37549 - Money: 0 - Time: 1:16 - Rival: GOLD - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 01021 - Daylight Savings Time
 * Pokemon Trading Card Game // Game Beaten - Name: MARK - Album: 183/226 - Time: 21:24
