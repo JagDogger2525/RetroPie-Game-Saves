@@ -130,8 +130,8 @@ Folder: home > roms > gbc
 * Pokemon - Yellow Version // Name: YELLOW - Team: Pikachu (71), Snorlax (33), Mewtwo (70), Mew (20) - Location: Inidgo Plateau - Badges: 8 - PokéDex: 151 - Money: 1048 - Time: 22:12
 * Pokemon Crystal [Boy] // All 3 Starting Pokémon - Name: CHRIS - Trainer ID: 24080 - Money: 3300 - Time: 0:29 - Rival: SILVER - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 01042 - No Money Time Passcode: 00802 - Daylight Savings Time
 * Pokemon Crystal [Girl] // All 3 Starting Pokémon - Name: KRIS - Trainer ID: 00363 - Money: 3300 - Time: 0:28 - Rival: SILVER - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 00913 - No Money Time Passcode: 00673 - Daylight Savings Time
-* Pokemon Gold // Name: GOLD - Team: Meganium (35), Feraligatr (37), Typhlosion (31), Pidgey (3) - Trainer ID: 22865 - Money: 0 - Time: 1:55 - Rival: SILVER - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 00716 - Daylight Savings Time
-* Pokemon Silver // Name: SILVER - Team: Meganium (37), Feraligatr (37), Typhlosion (36), Pidgey (4) - Trainer ID: 37549 - Money: 0 - Time: 1:14 - Rival: GOLD - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 01021 - Daylight Savings Time
+* Pokemon Gold // Name: GOLD - Team: Meganium (35), Feraligatr (37), Typhlosion (31), Pidgey (3) - Trainer ID: 22865 - Money: 0 - Time: 1:57 - Rival: SILVER - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 00716 - Daylight Savings Time
+* Pokemon Silver // Name: SILVER - Team: Meganium (37), Feraligatr (37), Typhlosion (36), Pidgey (4) - Trainer ID: 37549 - Money: 0 - Time: 1:16 - Rival: GOLD - Rival Pokémon: Totodile - Location: Cherrygrove City - Time Passcode: 01021 - Daylight Savings Time
 * Pokemon Trading Card Game // Game Beaten - Name: MARK - Album: 183/226 - Time: 21:24
 * The Legend of Zelda - Link's Awakening DX // Slot 1 - Tunic: Red | Slot 2 - Tunic: Green | Slot 3 - Tunic: Blue | All - Location: Wind Fish's Egg - All Max Items - Hearts: 14 - Rupees: 999 - Maze Solution: L-U-R-U-L-U-R-L-U [L = Left | U = Up | R = Right]
 
