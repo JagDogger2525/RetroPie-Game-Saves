@@ -52,7 +52,7 @@ https://legendarypkmn.net/pass/
 
 
 * Game Save Converter: [https://savefileconverter.com/#/mister](https://savefileconverter.com/#/mister)
-* NDS Game Save Converter: [https://savefileconverter.com/#/mister](https://www.save-editor.com/tools/wse_ds_save_converter.html)
+* NDS Game Save Converter: [[https://savefileconverter.com/#/mister](https://www.save-editor.com/tools/wse_ds_save_converter.html)](https://www.save-editor.com/tools/wse_ds_save_converter.html)
 
 These websites allow you to convert each of the saves here into their respective extensions to be transferred to their respective systems.
 
